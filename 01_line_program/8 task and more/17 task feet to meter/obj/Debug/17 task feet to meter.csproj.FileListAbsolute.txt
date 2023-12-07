@@ -1,0 +1,8 @@
+D:\c#\my projects\8 task and more\17 task feet to meter\bin\Debug\17 task feet to meter.exe.config
+D:\c#\my projects\8 task and more\17 task feet to meter\bin\Debug\17 task feet to meter.exe
+D:\c#\my projects\8 task and more\17 task feet to meter\bin\Debug\17 task feet to meter.pdb
+D:\c#\my projects\8 task and more\17 task feet to meter\obj\Debug\17 task feet to meter.csproj.AssemblyReference.cache
+D:\c#\my projects\8 task and more\17 task feet to meter\obj\Debug\17 task feet to meter.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\8 task and more\17 task feet to meter\obj\Debug\17 task feet to meter.csproj.CoreCompileInputs.cache
+D:\c#\my projects\8 task and more\17 task feet to meter\obj\Debug\17 task feet to meter.exe
+D:\c#\my projects\8 task and more\17 task feet to meter\obj\Debug\17 task feet to meter.pdb

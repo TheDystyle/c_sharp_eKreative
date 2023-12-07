@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\29 task Полные квадраты\bin\Debug\29 task Полные квадраты.exe.config
+D:\c#\my projects\3 цикли\29 task Полные квадраты\bin\Debug\29 task Полные квадраты.exe
+D:\c#\my projects\3 цикли\29 task Полные квадраты\bin\Debug\29 task Полные квадраты.pdb
+D:\c#\my projects\3 цикли\29 task Полные квадраты\obj\Debug\29 task Полные квадраты.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\29 task Полные квадраты\obj\Debug\29 task Полные квадраты.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\29 task Полные квадраты\obj\Debug\29 task Полные квадраты.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\29 task Полные квадраты\obj\Debug\29 task Полные квадраты.exe
+D:\c#\my projects\3 цикли\29 task Полные квадраты\obj\Debug\29 task Полные квадраты.pdb

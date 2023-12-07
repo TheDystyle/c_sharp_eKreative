@@ -1,0 +1,8 @@
+D:\c#\my projects\06 сортування\05 task  Результаты олимпиады\bin\Debug\05 task  Результаты олимпиады.exe.config
+D:\c#\my projects\06 сортування\05 task  Результаты олимпиады\bin\Debug\05 task  Результаты олимпиады.exe
+D:\c#\my projects\06 сортування\05 task  Результаты олимпиады\bin\Debug\05 task  Результаты олимпиады.pdb
+D:\c#\my projects\06 сортування\05 task  Результаты олимпиады\obj\Debug\05 task  Результаты олимпиады.csproj.AssemblyReference.cache
+D:\c#\my projects\06 сортування\05 task  Результаты олимпиады\obj\Debug\05 task  Результаты олимпиады.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\06 сортування\05 task  Результаты олимпиады\obj\Debug\05 task  Результаты олимпиады.csproj.CoreCompileInputs.cache
+D:\c#\my projects\06 сортування\05 task  Результаты олимпиады\obj\Debug\05 task  Результаты олимпиады.exe
+D:\c#\my projects\06 сортування\05 task  Результаты олимпиады\obj\Debug\05 task  Результаты олимпиады.pdb

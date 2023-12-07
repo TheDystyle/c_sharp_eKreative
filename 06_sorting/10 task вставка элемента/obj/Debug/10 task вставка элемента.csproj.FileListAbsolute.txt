@@ -1,0 +1,8 @@
+D:\c#\my projects\06 сортування\10 task вставка элемента\bin\Debug\10 task вставка элемента.exe.config
+D:\c#\my projects\06 сортування\10 task вставка элемента\bin\Debug\10 task вставка элемента.exe
+D:\c#\my projects\06 сортування\10 task вставка элемента\bin\Debug\10 task вставка элемента.pdb
+D:\c#\my projects\06 сортування\10 task вставка элемента\obj\Debug\10 task вставка элемента.csproj.AssemblyReference.cache
+D:\c#\my projects\06 сортування\10 task вставка элемента\obj\Debug\10 task вставка элемента.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\06 сортування\10 task вставка элемента\obj\Debug\10 task вставка элемента.csproj.CoreCompileInputs.cache
+D:\c#\my projects\06 сортування\10 task вставка элемента\obj\Debug\10 task вставка элемента.exe
+D:\c#\my projects\06 сортування\10 task вставка элемента\obj\Debug\10 task вставка элемента.pdb

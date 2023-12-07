@@ -1,0 +1,15 @@
+D:\c#\my projects\2 task - stars\2 task - stars\bin\Debug\2 task - stars.exe.config
+D:\c#\my projects\2 task - stars\2 task - stars\bin\Debug\2 task - stars.exe
+D:\c#\my projects\2 task - stars\2 task - stars\bin\Debug\2 task - stars.pdb
+D:\c#\my projects\2 task - stars\2 task - stars\obj\Debug\2 task - stars.csproj.AssemblyReference.cache
+D:\c#\my projects\2 task - stars\2 task - stars\obj\Debug\2 task - stars.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 task - stars\2 task - stars\obj\Debug\2 task - stars.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 task - stars\2 task - stars\obj\Debug\2 task - stars.exe
+D:\c#\my projects\2 task - stars\2 task - stars\obj\Debug\2 task - stars.pdb
+D:\Education\c#\my projects\этапы\01 лінійні програми\2 task - stars\2 task - stars\bin\Debug\2 task - stars.exe.config
+D:\Education\c#\my projects\этапы\01 лінійні програми\2 task - stars\2 task - stars\bin\Debug\2 task - stars.exe
+D:\Education\c#\my projects\этапы\01 лінійні програми\2 task - stars\2 task - stars\bin\Debug\2 task - stars.pdb
+D:\Education\c#\my projects\этапы\01 лінійні програми\2 task - stars\2 task - stars\obj\Debug\2 task - stars.csproj.AssemblyReference.cache
+D:\Education\c#\my projects\этапы\01 лінійні програми\2 task - stars\2 task - stars\obj\Debug\2 task - stars.csproj.CoreCompileInputs.cache
+D:\Education\c#\my projects\этапы\01 лінійні програми\2 task - stars\2 task - stars\obj\Debug\2 task - stars.exe
+D:\Education\c#\my projects\этапы\01 лінійні програми\2 task - stars\2 task - stars\obj\Debug\2 task - stars.pdb

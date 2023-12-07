@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\2 task шахматные клетки\bin\Debug\2 task шахматные клетки.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\2 task шахматные клетки\bin\Debug\2 task шахматные клетки.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\2 task шахматные клетки\bin\Debug\2 task шахматные клетки.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\2 task шахматные клетки\obj\Debug\2 task шахматные клетки.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\2 task шахматные клетки\obj\Debug\2 task шахматные клетки.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\2 task шахматные клетки\obj\Debug\2 task шахматные клетки.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\2 task шахматные клетки\obj\Debug\2 task шахматные клетки.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\2 task шахматные клетки\obj\Debug\2 task шахматные клетки.pdb

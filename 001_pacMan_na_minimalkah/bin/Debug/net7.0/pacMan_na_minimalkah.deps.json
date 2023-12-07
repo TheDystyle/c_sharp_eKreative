@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "pacMan_na_minimalkah/1.0.0": {
+        "runtime": {
+          "pacMan_na_minimalkah.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pacMan_na_minimalkah/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

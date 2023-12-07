@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\05 task Поменять местами строки с min и max\bin\Debug\05 task Поменять местами строки с min и max.exe.config
+D:\c#\my projects\07 двовимірні масиви\05 task Поменять местами строки с min и max\bin\Debug\05 task Поменять местами строки с min и max.exe
+D:\c#\my projects\07 двовимірні масиви\05 task Поменять местами строки с min и max\bin\Debug\05 task Поменять местами строки с min и max.pdb
+D:\c#\my projects\07 двовимірні масиви\05 task Поменять местами строки с min и max\obj\Debug\05 task Поменять местами строки с min и max.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\05 task Поменять местами строки с min и max\obj\Debug\05 task Поменять местами строки с min и max.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\05 task Поменять местами строки с min и max\obj\Debug\05 task Поменять местами строки с min и max.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\05 task Поменять местами строки с min и max\obj\Debug\05 task Поменять местами строки с min и max.exe
+D:\c#\my projects\07 двовимірні масиви\05 task Поменять местами строки с min и max\obj\Debug\05 task Поменять местами строки с min и max.pdb

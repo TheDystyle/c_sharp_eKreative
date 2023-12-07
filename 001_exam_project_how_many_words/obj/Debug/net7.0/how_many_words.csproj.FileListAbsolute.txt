@@ -1,0 +1,14 @@
+D:\Education\c#\c_charp_dz_project\how_many_words\bin\Debug\net7.0\how_many_words.exe
+D:\Education\c#\c_charp_dz_project\how_many_words\bin\Debug\net7.0\how_many_words.deps.json
+D:\Education\c#\c_charp_dz_project\how_many_words\bin\Debug\net7.0\how_many_words.runtimeconfig.json
+D:\Education\c#\c_charp_dz_project\how_many_words\bin\Debug\net7.0\how_many_words.dll
+D:\Education\c#\c_charp_dz_project\how_many_words\bin\Debug\net7.0\how_many_words.pdb
+D:\Education\c#\c_charp_dz_project\how_many_words\obj\Debug\net7.0\how_many_words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\c#\c_charp_dz_project\how_many_words\obj\Debug\net7.0\how_many_words.AssemblyInfoInputs.cache
+D:\Education\c#\c_charp_dz_project\how_many_words\obj\Debug\net7.0\how_many_words.AssemblyInfo.cs
+D:\Education\c#\c_charp_dz_project\how_many_words\obj\Debug\net7.0\how_many_words.csproj.CoreCompileInputs.cache
+D:\Education\c#\c_charp_dz_project\how_many_words\obj\Debug\net7.0\how_many_words.dll
+D:\Education\c#\c_charp_dz_project\how_many_words\obj\Debug\net7.0\refint\how_many_words.dll
+D:\Education\c#\c_charp_dz_project\how_many_words\obj\Debug\net7.0\how_many_words.pdb
+D:\Education\c#\c_charp_dz_project\how_many_words\obj\Debug\net7.0\how_many_words.genruntimeconfig.cache
+D:\Education\c#\c_charp_dz_project\how_many_words\obj\Debug\net7.0\ref\how_many_words.dll

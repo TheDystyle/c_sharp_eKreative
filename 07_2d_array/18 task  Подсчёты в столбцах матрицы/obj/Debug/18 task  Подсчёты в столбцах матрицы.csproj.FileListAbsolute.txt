@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\18 task  Подсчёты в столбцах матрицы\bin\Debug\18 task  Подсчёты в столбцах матрицы.exe.config
+D:\c#\my projects\07 двовимірні масиви\18 task  Подсчёты в столбцах матрицы\bin\Debug\18 task  Подсчёты в столбцах матрицы.exe
+D:\c#\my projects\07 двовимірні масиви\18 task  Подсчёты в столбцах матрицы\bin\Debug\18 task  Подсчёты в столбцах матрицы.pdb
+D:\c#\my projects\07 двовимірні масиви\18 task  Подсчёты в столбцах матрицы\obj\Debug\18 task  Подсчёты в столбцах матрицы.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\18 task  Подсчёты в столбцах матрицы\obj\Debug\18 task  Подсчёты в столбцах матрицы.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\18 task  Подсчёты в столбцах матрицы\obj\Debug\18 task  Подсчёты в столбцах матрицы.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\18 task  Подсчёты в столбцах матрицы\obj\Debug\18 task  Подсчёты в столбцах матрицы.exe
+D:\c#\my projects\07 двовимірні масиви\18 task  Подсчёты в столбцах матрицы\obj\Debug\18 task  Подсчёты в столбцах матрицы.pdb

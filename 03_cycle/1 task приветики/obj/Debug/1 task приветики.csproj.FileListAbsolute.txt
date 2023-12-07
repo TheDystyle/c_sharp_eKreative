@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\1 task приветики\1 task приветики\bin\Debug\1 task приветики.exe.config
+D:\c#\my projects\3 цикли\1 task приветики\1 task приветики\bin\Debug\1 task приветики.exe
+D:\c#\my projects\3 цикли\1 task приветики\1 task приветики\bin\Debug\1 task приветики.pdb
+D:\c#\my projects\3 цикли\1 task приветики\1 task приветики\obj\Debug\1 task приветики.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\1 task приветики\1 task приветики\obj\Debug\1 task приветики.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\1 task приветики\1 task приветики\obj\Debug\1 task приветики.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\1 task приветики\1 task приветики\obj\Debug\1 task приветики.exe
+D:\c#\my projects\3 цикли\1 task приветики\1 task приветики\obj\Debug\1 task приветики.pdb

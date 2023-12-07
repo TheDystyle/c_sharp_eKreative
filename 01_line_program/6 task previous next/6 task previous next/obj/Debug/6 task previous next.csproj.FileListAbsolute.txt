@@ -1,0 +1,8 @@
+D:\c#\my projects\6 task previous next\6 task previous next\bin\Debug\6 task previous next.exe.config
+D:\c#\my projects\6 task previous next\6 task previous next\bin\Debug\6 task previous next.exe
+D:\c#\my projects\6 task previous next\6 task previous next\bin\Debug\6 task previous next.pdb
+D:\c#\my projects\6 task previous next\6 task previous next\obj\Debug\6 task previous next.csproj.AssemblyReference.cache
+D:\c#\my projects\6 task previous next\6 task previous next\obj\Debug\6 task previous next.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\6 task previous next\6 task previous next\obj\Debug\6 task previous next.csproj.CoreCompileInputs.cache
+D:\c#\my projects\6 task previous next\6 task previous next\obj\Debug\6 task previous next.exe
+D:\c#\my projects\6 task previous next\6 task previous next\obj\Debug\6 task previous next.pdb

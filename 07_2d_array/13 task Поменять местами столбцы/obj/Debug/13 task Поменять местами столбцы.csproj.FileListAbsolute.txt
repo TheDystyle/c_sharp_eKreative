@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\13 task Поменять местами столбцы\bin\Debug\13 task Поменять местами столбцы.exe.config
+D:\c#\my projects\07 двовимірні масиви\13 task Поменять местами столбцы\bin\Debug\13 task Поменять местами столбцы.exe
+D:\c#\my projects\07 двовимірні масиви\13 task Поменять местами столбцы\bin\Debug\13 task Поменять местами столбцы.pdb
+D:\c#\my projects\07 двовимірні масиви\13 task Поменять местами столбцы\obj\Debug\13 task Поменять местами столбцы.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\13 task Поменять местами столбцы\obj\Debug\13 task Поменять местами столбцы.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\13 task Поменять местами столбцы\obj\Debug\13 task Поменять местами столбцы.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\13 task Поменять местами столбцы\obj\Debug\13 task Поменять местами столбцы.exe
+D:\c#\my projects\07 двовимірні масиви\13 task Поменять местами столбцы\obj\Debug\13 task Поменять местами столбцы.pdb

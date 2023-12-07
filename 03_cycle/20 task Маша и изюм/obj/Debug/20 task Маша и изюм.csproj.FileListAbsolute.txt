@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\20 task Маша и изюм\obj\Debug\20 task Маша и изюм.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\20 task Маша и изюм\obj\Debug\20 task Маша и изюм.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\20 task Маша и изюм\obj\Debug\20 task Маша и изюм.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\20 task Маша и изюм\bin\Debug\20 task Маша и изюм.exe.config
+D:\c#\my projects\3 цикли\20 task Маша и изюм\bin\Debug\20 task Маша и изюм.exe
+D:\c#\my projects\3 цикли\20 task Маша и изюм\bin\Debug\20 task Маша и изюм.pdb
+D:\c#\my projects\3 цикли\20 task Маша и изюм\obj\Debug\20 task Маша и изюм.exe
+D:\c#\my projects\3 цикли\20 task Маша и изюм\obj\Debug\20 task Маша и изюм.pdb

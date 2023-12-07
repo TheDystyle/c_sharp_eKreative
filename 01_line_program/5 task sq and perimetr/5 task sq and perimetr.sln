@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 task sq and perimetr", "5 task sq and perimetr\5 task sq and perimetr.csproj", "{B081F2C3-8AB8-485D-871D-EF2E75D08D7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B081F2C3-8AB8-485D-871D-EF2E75D08D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B081F2C3-8AB8-485D-871D-EF2E75D08D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B081F2C3-8AB8-485D-871D-EF2E75D08D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B081F2C3-8AB8-485D-871D-EF2E75D08D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2124F073-4094-4560-BAE3-685C5CB7B65A}
+	EndGlobalSection
+EndGlobal

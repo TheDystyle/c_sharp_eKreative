@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\13 task Трёхзначное число\obj\Debug\13 task Трёхзначное число.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\13 task Трёхзначное число\obj\Debug\13 task Трёхзначное число.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\13 task Трёхзначное число\obj\Debug\13 task Трёхзначное число.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\13 task Трёхзначное число\bin\Debug\13 task Трёхзначное число.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\13 task Трёхзначное число\bin\Debug\13 task Трёхзначное число.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\13 task Трёхзначное число\bin\Debug\13 task Трёхзначное число.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\13 task Трёхзначное число\obj\Debug\13 task Трёхзначное число.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\13 task Трёхзначное число\obj\Debug\13 task Трёхзначное число.pdb

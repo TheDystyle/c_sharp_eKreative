@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\14 task Замена w на z и наоборот\obj\Debug\14 task Замена w на z и наоборот.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\14 task Замена w на z и наоборот\obj\Debug\14 task Замена w на z и наоборот.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\14 task Замена w на z и наоборот\obj\Debug\14 task Замена w на z и наоборот.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\14 task Замена w на z и наоборот\bin\Debug\14 task Замена w на z и наоборот.exe.config
+D:\c#\my projects\08 строки\14 task Замена w на z и наоборот\bin\Debug\14 task Замена w на z и наоборот.exe
+D:\c#\my projects\08 строки\14 task Замена w на z и наоборот\bin\Debug\14 task Замена w на z и наоборот.pdb
+D:\c#\my projects\08 строки\14 task Замена w на z и наоборот\obj\Debug\14 task Замена w на z и наоборот.exe
+D:\c#\my projects\08 строки\14 task Замена w на z и наоборот\obj\Debug\14 task Замена w на z и наоборот.pdb

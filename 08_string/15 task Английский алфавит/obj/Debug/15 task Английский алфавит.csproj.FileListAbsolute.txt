@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\15 task Английский алфавит\bin\Debug\15 task Английский алфавит.exe.config
+D:\c#\my projects\08 строки\15 task Английский алфавит\bin\Debug\15 task Английский алфавит.exe
+D:\c#\my projects\08 строки\15 task Английский алфавит\bin\Debug\15 task Английский алфавит.pdb
+D:\c#\my projects\08 строки\15 task Английский алфавит\obj\Debug\15 task Английский алфавит.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\15 task Английский алфавит\obj\Debug\15 task Английский алфавит.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\15 task Английский алфавит\obj\Debug\15 task Английский алфавит.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\15 task Английский алфавит\obj\Debug\15 task Английский алфавит.exe
+D:\c#\my projects\08 строки\15 task Английский алфавит\obj\Debug\15 task Английский алфавит.pdb

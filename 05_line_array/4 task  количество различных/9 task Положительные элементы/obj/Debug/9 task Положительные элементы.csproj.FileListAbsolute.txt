@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\9 task Положительные элементы\bin\Debug\9 task Положительные элементы.exe.config
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\9 task Положительные элементы\bin\Debug\9 task Положительные элементы.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\9 task Положительные элементы\bin\Debug\9 task Положительные элементы.pdb
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\9 task Положительные элементы\obj\Debug\9 task Положительные элементы.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\9 task Положительные элементы\obj\Debug\9 task Положительные элементы.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\9 task Положительные элементы\obj\Debug\9 task Положительные элементы.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\9 task Положительные элементы\obj\Debug\9 task Положительные элементы.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\9 task Положительные элементы\obj\Debug\9 task Положительные элементы.pdb

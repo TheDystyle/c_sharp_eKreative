@@ -1,0 +1,8 @@
+D:\c#\my projects\06 сортування\08 task  Библиотечный метод\bin\Debug\08 task  Библиотечный метод.exe.config
+D:\c#\my projects\06 сортування\08 task  Библиотечный метод\bin\Debug\08 task  Библиотечный метод.exe
+D:\c#\my projects\06 сортування\08 task  Библиотечный метод\bin\Debug\08 task  Библиотечный метод.pdb
+D:\c#\my projects\06 сортування\08 task  Библиотечный метод\obj\Debug\08 task  Библиотечный метод.csproj.AssemblyReference.cache
+D:\c#\my projects\06 сортування\08 task  Библиотечный метод\obj\Debug\08 task  Библиотечный метод.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\06 сортування\08 task  Библиотечный метод\obj\Debug\08 task  Библиотечный метод.csproj.CoreCompileInputs.cache
+D:\c#\my projects\06 сортування\08 task  Библиотечный метод\obj\Debug\08 task  Библиотечный метод.exe
+D:\c#\my projects\06 сортування\08 task  Библиотечный метод\obj\Debug\08 task  Библиотечный метод.pdb

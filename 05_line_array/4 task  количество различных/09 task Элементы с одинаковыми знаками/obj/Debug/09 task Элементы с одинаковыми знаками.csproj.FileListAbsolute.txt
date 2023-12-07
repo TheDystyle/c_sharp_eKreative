@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\09 task Элементы с одинаковыми знаками\bin\Debug\09 task Элементы с одинаковыми знаками.exe.config
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\09 task Элементы с одинаковыми знаками\bin\Debug\09 task Элементы с одинаковыми знаками.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\09 task Элементы с одинаковыми знаками\bin\Debug\09 task Элементы с одинаковыми знаками.pdb
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\09 task Элементы с одинаковыми знаками\obj\Debug\09 task Элементы с одинаковыми знаками.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\09 task Элементы с одинаковыми знаками\obj\Debug\09 task Элементы с одинаковыми знаками.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\09 task Элементы с одинаковыми знаками\obj\Debug\09 task Элементы с одинаковыми знаками.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\09 task Элементы с одинаковыми знаками\obj\Debug\09 task Элементы с одинаковыми знаками.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\09 task Элементы с одинаковыми знаками\obj\Debug\09 task Элементы с одинаковыми знаками.pdb

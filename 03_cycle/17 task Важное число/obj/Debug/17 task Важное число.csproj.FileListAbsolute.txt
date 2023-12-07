@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\17 task Важное число\bin\Debug\17 task Важное число.exe.config
+D:\c#\my projects\3 цикли\17 task Важное число\bin\Debug\17 task Важное число.exe
+D:\c#\my projects\3 цикли\17 task Важное число\bin\Debug\17 task Важное число.pdb
+D:\c#\my projects\3 цикли\17 task Важное число\obj\Debug\17 task Важное число.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\17 task Важное число\obj\Debug\17 task Важное число.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\17 task Важное число\obj\Debug\17 task Важное число.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\17 task Важное число\obj\Debug\17 task Важное число.exe
+D:\c#\my projects\3 цикли\17 task Важное число\obj\Debug\17 task Важное число.pdb

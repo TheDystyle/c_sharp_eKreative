@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\8 task Больше соседних\bin\Debug\8 task Больше соседних.exe.config
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\8 task Больше соседних\bin\Debug\8 task Больше соседних.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\8 task Больше соседних\bin\Debug\8 task Больше соседних.pdb
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\8 task Больше соседних\obj\Debug\08 task Больше соседних.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\8 task Больше соседних\obj\Debug\08 task Больше соседних.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\8 task Больше соседних\obj\Debug\08 task Больше соседних.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\8 task Больше соседних\obj\Debug\8 task Больше соседних.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\8 task Больше соседних\obj\Debug\8 task Больше соседних.pdb

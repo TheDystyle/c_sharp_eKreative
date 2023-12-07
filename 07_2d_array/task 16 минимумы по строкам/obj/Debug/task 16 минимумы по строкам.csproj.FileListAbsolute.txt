@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\task 16 минимумы по строкам\bin\Debug\task 16 минимумы по строкам.exe.config
+D:\c#\my projects\07 двовимірні масиви\task 16 минимумы по строкам\bin\Debug\task 16 минимумы по строкам.exe
+D:\c#\my projects\07 двовимірні масиви\task 16 минимумы по строкам\bin\Debug\task 16 минимумы по строкам.pdb
+D:\c#\my projects\07 двовимірні масиви\task 16 минимумы по строкам\obj\Debug\task 16 минимумы по строкам.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\task 16 минимумы по строкам\obj\Debug\task 16 минимумы по строкам.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\task 16 минимумы по строкам\obj\Debug\task 16 минимумы по строкам.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\task 16 минимумы по строкам\obj\Debug\task 16 минимумы по строкам.exe
+D:\c#\my projects\07 двовимірні масиви\task 16 минимумы по строкам\obj\Debug\task 16 минимумы по строкам.pdb

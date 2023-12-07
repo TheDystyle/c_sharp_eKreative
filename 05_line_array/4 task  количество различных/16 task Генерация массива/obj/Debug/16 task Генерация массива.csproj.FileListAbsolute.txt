@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\16 task Генерация массива\bin\Debug\16 task Генерация массива.exe.config
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\16 task Генерация массива\bin\Debug\16 task Генерация массива.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\16 task Генерация массива\bin\Debug\16 task Генерация массива.pdb
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\16 task Генерация массива\obj\Debug\16 task Генерация массива.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\16 task Генерация массива\obj\Debug\16 task Генерация массива.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\16 task Генерация массива\obj\Debug\16 task Генерация массива.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\16 task Генерация массива\obj\Debug\16 task Генерация массива.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\16 task Генерация массива\obj\Debug\16 task Генерация массива.pdb

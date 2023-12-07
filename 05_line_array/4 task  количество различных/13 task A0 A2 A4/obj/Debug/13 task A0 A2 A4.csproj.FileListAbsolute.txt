@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\13 task A0 A2 A4\bin\Debug\13 task A0 A2 A4.exe.config
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\13 task A0 A2 A4\bin\Debug\13 task A0 A2 A4.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\13 task A0 A2 A4\bin\Debug\13 task A0 A2 A4.pdb
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\13 task A0 A2 A4\obj\Debug\13 task A0 A2 A4.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\13 task A0 A2 A4\obj\Debug\13 task A0 A2 A4.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\13 task A0 A2 A4\obj\Debug\13 task A0 A2 A4.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\13 task A0 A2 A4\obj\Debug\13 task A0 A2 A4.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\13 task A0 A2 A4\obj\Debug\13 task A0 A2 A4.pdb

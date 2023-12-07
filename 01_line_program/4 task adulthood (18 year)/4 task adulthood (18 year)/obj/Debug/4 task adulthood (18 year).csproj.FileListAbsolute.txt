@@ -1,0 +1,8 @@
+D:\c#\my projects\4 task adulthood (18 year)\4 task adulthood (18 year)\bin\Debug\4 task adulthood (18 year).exe.config
+D:\c#\my projects\4 task adulthood (18 year)\4 task adulthood (18 year)\bin\Debug\4 task adulthood (18 year).exe
+D:\c#\my projects\4 task adulthood (18 year)\4 task adulthood (18 year)\bin\Debug\4 task adulthood (18 year).pdb
+D:\c#\my projects\4 task adulthood (18 year)\4 task adulthood (18 year)\obj\Debug\4 task adulthood (18 year).csproj.AssemblyReference.cache
+D:\c#\my projects\4 task adulthood (18 year)\4 task adulthood (18 year)\obj\Debug\4 task adulthood (18 year).csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\4 task adulthood (18 year)\4 task adulthood (18 year)\obj\Debug\4 task adulthood (18 year).csproj.CoreCompileInputs.cache
+D:\c#\my projects\4 task adulthood (18 year)\4 task adulthood (18 year)\obj\Debug\4 task adulthood (18 year).exe
+D:\c#\my projects\4 task adulthood (18 year)\4 task adulthood (18 year)\obj\Debug\4 task adulthood (18 year).pdb

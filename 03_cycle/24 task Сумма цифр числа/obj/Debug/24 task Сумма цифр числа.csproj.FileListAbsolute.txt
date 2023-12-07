@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\24 task Сумма цифр числа\bin\Debug\24 task Сумма цифр числа.exe.config
+D:\c#\my projects\3 цикли\24 task Сумма цифр числа\bin\Debug\24 task Сумма цифр числа.exe
+D:\c#\my projects\3 цикли\24 task Сумма цифр числа\bin\Debug\24 task Сумма цифр числа.pdb
+D:\c#\my projects\3 цикли\24 task Сумма цифр числа\obj\Debug\24 task Сумма цифр числа.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\24 task Сумма цифр числа\obj\Debug\24 task Сумма цифр числа.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\24 task Сумма цифр числа\obj\Debug\24 task Сумма цифр числа.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\24 task Сумма цифр числа\obj\Debug\24 task Сумма цифр числа.exe
+D:\c#\my projects\3 цикли\24 task Сумма цифр числа\obj\Debug\24 task Сумма цифр числа.pdb

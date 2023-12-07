@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\13 task  Неубывающая подпоследовательность\bin\Debug\13 task  Неубывающая подпоследовательность.exe.config
+D:\c#\my projects\3 цикли\13 task  Неубывающая подпоследовательность\bin\Debug\13 task  Неубывающая подпоследовательность.exe
+D:\c#\my projects\3 цикли\13 task  Неубывающая подпоследовательность\bin\Debug\13 task  Неубывающая подпоследовательность.pdb
+D:\c#\my projects\3 цикли\13 task  Неубывающая подпоследовательность\obj\Debug\13 task  Неубывающая подпоследовательность.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\13 task  Неубывающая подпоследовательность\obj\Debug\13 task  Неубывающая подпоследовательность.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\13 task  Неубывающая подпоследовательность\obj\Debug\13 task  Неубывающая подпоследовательность.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\13 task  Неубывающая подпоследовательность\obj\Debug\13 task  Неубывающая подпоследовательность.exe
+D:\c#\my projects\3 цикли\13 task  Неубывающая подпоследовательность\obj\Debug\13 task  Неубывающая подпоследовательность.pdb

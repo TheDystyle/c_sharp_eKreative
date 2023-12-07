@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\14 task Максимальный элемент\bin\Debug\14 task Максимальный элемент.exe.config
+D:\c#\my projects\3 цикли\14 task Максимальный элемент\bin\Debug\14 task Максимальный элемент.exe
+D:\c#\my projects\3 цикли\14 task Максимальный элемент\bin\Debug\14 task Максимальный элемент.pdb
+D:\c#\my projects\3 цикли\14 task Максимальный элемент\obj\Debug\14 task Максимальный элемент.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\14 task Максимальный элемент\obj\Debug\14 task Максимальный элемент.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\14 task Максимальный элемент\obj\Debug\14 task Максимальный элемент.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\14 task Максимальный элемент\obj\Debug\14 task Максимальный элемент.exe
+D:\c#\my projects\3 цикли\14 task Максимальный элемент\obj\Debug\14 task Максимальный элемент.pdb

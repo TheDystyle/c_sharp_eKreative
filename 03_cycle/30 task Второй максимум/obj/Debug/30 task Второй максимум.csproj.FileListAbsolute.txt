@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\30 task Второй максимум\bin\Debug\30 task Второй максимум.exe.config
+D:\c#\my projects\3 цикли\30 task Второй максимум\bin\Debug\30 task Второй максимум.exe
+D:\c#\my projects\3 цикли\30 task Второй максимум\bin\Debug\30 task Второй максимум.pdb
+D:\c#\my projects\3 цикли\30 task Второй максимум\obj\Debug\30 task Второй максимум.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\30 task Второй максимум\obj\Debug\30 task Второй максимум.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\30 task Второй максимум\obj\Debug\30 task Второй максимум.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\30 task Второй максимум\obj\Debug\30 task Второй максимум.exe
+D:\c#\my projects\3 цикли\30 task Второй максимум\obj\Debug\30 task Второй максимум.pdb

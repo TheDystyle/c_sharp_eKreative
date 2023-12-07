@@ -1,0 +1,14 @@
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\bin\Debug\net7.0\pacMan_na_minimalkah.exe
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\bin\Debug\net7.0\pacMan_na_minimalkah.deps.json
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\bin\Debug\net7.0\pacMan_na_minimalkah.runtimeconfig.json
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\bin\Debug\net7.0\pacMan_na_minimalkah.dll
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\bin\Debug\net7.0\pacMan_na_minimalkah.pdb
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\obj\Debug\net7.0\pacMan_na_minimalkah.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\obj\Debug\net7.0\pacMan_na_minimalkah.AssemblyInfoInputs.cache
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\obj\Debug\net7.0\pacMan_na_minimalkah.AssemblyInfo.cs
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\obj\Debug\net7.0\pacMan_na_minimalkah.csproj.CoreCompileInputs.cache
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\obj\Debug\net7.0\pacMan_na_minimalkah.dll
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\obj\Debug\net7.0\refint\pacMan_na_minimalkah.dll
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\obj\Debug\net7.0\pacMan_na_minimalkah.pdb
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\obj\Debug\net7.0\pacMan_na_minimalkah.genruntimeconfig.cache
+D:\Education\c#\c_charp_dz_project\pacMan_na_minimalkah\obj\Debug\net7.0\ref\pacMan_na_minimalkah.dll

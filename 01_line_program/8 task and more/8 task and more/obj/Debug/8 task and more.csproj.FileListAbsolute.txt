@@ -1,0 +1,8 @@
+D:\c#\my projects\8 task and more\8 task and more\bin\Debug\8 task and more.exe.config
+D:\c#\my projects\8 task and more\8 task and more\bin\Debug\8 task and more.exe
+D:\c#\my projects\8 task and more\8 task and more\bin\Debug\8 task and more.pdb
+D:\c#\my projects\8 task and more\8 task and more\obj\Debug\8 task and more.csproj.AssemblyReference.cache
+D:\c#\my projects\8 task and more\8 task and more\obj\Debug\8 task and more.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\8 task and more\8 task and more\obj\Debug\8 task and more.csproj.CoreCompileInputs.cache
+D:\c#\my projects\8 task and more\8 task and more\obj\Debug\8 task and more.exe
+D:\c#\my projects\8 task and more\8 task and more\obj\Debug\8 task and more.pdb

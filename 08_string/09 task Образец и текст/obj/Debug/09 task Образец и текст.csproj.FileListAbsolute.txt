@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\09 task Образец и текст\bin\Debug\09 task Образец и текст.exe.config
+D:\c#\my projects\08 строки\09 task Образец и текст\bin\Debug\09 task Образец и текст.exe
+D:\c#\my projects\08 строки\09 task Образец и текст\bin\Debug\09 task Образец и текст.pdb
+D:\c#\my projects\08 строки\09 task Образец и текст\obj\Debug\09 task Образец и текст.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\09 task Образец и текст\obj\Debug\09 task Образец и текст.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\09 task Образец и текст\obj\Debug\09 task Образец и текст.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\09 task Образец и текст\obj\Debug\09 task Образец и текст.exe
+D:\c#\my projects\08 строки\09 task Образец и текст\obj\Debug\09 task Образец и текст.pdb

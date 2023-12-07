@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\5 task Число в вертикальной рамке\bin\Debug\5 task Число в вертикальной рамке.exe.config
+D:\c#\my projects\3 цикли\5 task Число в вертикальной рамке\bin\Debug\5 task Число в вертикальной рамке.exe
+D:\c#\my projects\3 цикли\5 task Число в вертикальной рамке\bin\Debug\5 task Число в вертикальной рамке.pdb
+D:\c#\my projects\3 цикли\5 task Число в вертикальной рамке\obj\Debug\5 task Число в вертикальной рамке.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\5 task Число в вертикальной рамке\obj\Debug\5 task Число в вертикальной рамке.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\5 task Число в вертикальной рамке\obj\Debug\5 task Число в вертикальной рамке.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\5 task Число в вертикальной рамке\obj\Debug\5 task Число в вертикальной рамке.exe
+D:\c#\my projects\3 цикли\5 task Число в вертикальной рамке\obj\Debug\5 task Число в вертикальной рамке.pdb

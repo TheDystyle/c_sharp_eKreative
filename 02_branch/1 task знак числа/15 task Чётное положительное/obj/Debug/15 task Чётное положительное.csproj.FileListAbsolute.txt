@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\15 task Чётное положительное\bin\Debug\15 task Чётное положительное.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\15 task Чётное положительное\bin\Debug\15 task Чётное положительное.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\15 task Чётное положительное\bin\Debug\15 task Чётное положительное.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\15 task Чётное положительное\obj\Debug\15 task Чётное положительное.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\15 task Чётное положительное\obj\Debug\15 task Чётное положительное.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\15 task Чётное положительное\obj\Debug\15 task Чётное положительное.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\15 task Чётное положительное\obj\Debug\15 task Чётное положительное.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\15 task Чётное положительное\obj\Debug\15 task Чётное положительное.pdb

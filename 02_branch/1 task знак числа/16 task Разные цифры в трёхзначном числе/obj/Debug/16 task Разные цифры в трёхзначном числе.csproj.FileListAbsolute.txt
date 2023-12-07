@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\16 task Разные цифры в трёхзначном числе\bin\Debug\16 task Разные цифры в трёхзначном числе.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\16 task Разные цифры в трёхзначном числе\bin\Debug\16 task Разные цифры в трёхзначном числе.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\16 task Разные цифры в трёхзначном числе\bin\Debug\16 task Разные цифры в трёхзначном числе.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\16 task Разные цифры в трёхзначном числе\obj\Debug\16 task Разные цифры в трёхзначном числе.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\16 task Разные цифры в трёхзначном числе\obj\Debug\16 task Разные цифры в трёхзначном числе.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\16 task Разные цифры в трёхзначном числе\obj\Debug\16 task Разные цифры в трёхзначном числе.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\16 task Разные цифры в трёхзначном числе\obj\Debug\16 task Разные цифры в трёхзначном числе.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\16 task Разные цифры в трёхзначном числе\obj\Debug\16 task Разные цифры в трёхзначном числе.pdb

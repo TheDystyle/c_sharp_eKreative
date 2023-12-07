@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\24 task Удаление символов\bin\Debug\24 task Удаление символов.exe.config
+D:\c#\my projects\08 строки\24 task Удаление символов\bin\Debug\24 task Удаление символов.exe
+D:\c#\my projects\08 строки\24 task Удаление символов\bin\Debug\24 task Удаление символов.pdb
+D:\c#\my projects\08 строки\24 task Удаление символов\obj\Debug\24 task Удаление символов.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\24 task Удаление символов\obj\Debug\24 task Удаление символов.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\24 task Удаление символов\obj\Debug\24 task Удаление символов.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\24 task Удаление символов\obj\Debug\24 task Удаление символов.exe
+D:\c#\my projects\08 строки\24 task Удаление символов\obj\Debug\24 task Удаление символов.pdb

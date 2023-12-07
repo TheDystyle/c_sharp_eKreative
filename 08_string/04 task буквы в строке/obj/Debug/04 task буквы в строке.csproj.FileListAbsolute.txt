@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\04 task буквы в строке\bin\Debug\04 task буквы в строке.exe.config
+D:\c#\my projects\08 строки\04 task буквы в строке\bin\Debug\04 task буквы в строке.exe
+D:\c#\my projects\08 строки\04 task буквы в строке\bin\Debug\04 task буквы в строке.pdb
+D:\c#\my projects\08 строки\04 task буквы в строке\obj\Debug\04 task буквы в строке.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\04 task буквы в строке\obj\Debug\04 task буквы в строке.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\04 task буквы в строке\obj\Debug\04 task буквы в строке.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\04 task буквы в строке\obj\Debug\04 task буквы в строке.exe
+D:\c#\my projects\08 строки\04 task буквы в строке\obj\Debug\04 task буквы в строке.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\12 task Больше предыдущего\bin\Debug\12 task Больше предыдущего.exe.config
+D:\c#\my projects\3 цикли\12 task Больше предыдущего\bin\Debug\12 task Больше предыдущего.exe
+D:\c#\my projects\3 цикли\12 task Больше предыдущего\bin\Debug\12 task Больше предыдущего.pdb
+D:\c#\my projects\3 цикли\12 task Больше предыдущего\obj\Debug\12 task Больше предыдущего.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\12 task Больше предыдущего\obj\Debug\12 task Больше предыдущего.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\12 task Больше предыдущего\obj\Debug\12 task Больше предыдущего.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\12 task Больше предыдущего\obj\Debug\12 task Больше предыдущего.exe
+D:\c#\my projects\3 цикли\12 task Больше предыдущего\obj\Debug\12 task Больше предыдущего.pdb

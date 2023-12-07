@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\12 Удвоение всех символов\bin\Debug\12 Удвоение всех символов.exe.config
+D:\c#\my projects\08 строки\12 Удвоение всех символов\bin\Debug\12 Удвоение всех символов.exe
+D:\c#\my projects\08 строки\12 Удвоение всех символов\bin\Debug\12 Удвоение всех символов.pdb
+D:\c#\my projects\08 строки\12 Удвоение всех символов\obj\Debug\12 Удвоение всех символов.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\12 Удвоение всех символов\obj\Debug\12 Удвоение всех символов.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\12 Удвоение всех символов\obj\Debug\12 Удвоение всех символов.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\12 Удвоение всех символов\obj\Debug\12 Удвоение всех символов.exe
+D:\c#\my projects\08 строки\12 Удвоение всех символов\obj\Debug\12 Удвоение всех символов.pdb

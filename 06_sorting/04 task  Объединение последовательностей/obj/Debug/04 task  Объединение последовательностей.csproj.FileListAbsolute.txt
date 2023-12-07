@@ -1,0 +1,8 @@
+D:\c#\my projects\06 сортування\04 task  Объединение последовательностей\bin\Debug\04 task  Объединение последовательностей.exe.config
+D:\c#\my projects\06 сортування\04 task  Объединение последовательностей\bin\Debug\04 task  Объединение последовательностей.exe
+D:\c#\my projects\06 сортування\04 task  Объединение последовательностей\bin\Debug\04 task  Объединение последовательностей.pdb
+D:\c#\my projects\06 сортування\04 task  Объединение последовательностей\obj\Debug\04 task  Объединение последовательностей.csproj.AssemblyReference.cache
+D:\c#\my projects\06 сортування\04 task  Объединение последовательностей\obj\Debug\04 task  Объединение последовательностей.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\06 сортування\04 task  Объединение последовательностей\obj\Debug\04 task  Объединение последовательностей.csproj.CoreCompileInputs.cache
+D:\c#\my projects\06 сортування\04 task  Объединение последовательностей\obj\Debug\04 task  Объединение последовательностей.exe
+D:\c#\my projects\06 сортування\04 task  Объединение последовательностей\obj\Debug\04 task  Объединение последовательностей.pdb

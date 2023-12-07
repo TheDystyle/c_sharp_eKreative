@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\05 task количество слов\bin\Debug\05 task количество слов.exe.config
+D:\c#\my projects\08 строки\05 task количество слов\bin\Debug\05 task количество слов.exe
+D:\c#\my projects\08 строки\05 task количество слов\bin\Debug\05 task количество слов.pdb
+D:\c#\my projects\08 строки\05 task количество слов\obj\Debug\05 task количество слов.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\05 task количество слов\obj\Debug\05 task количество слов.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\05 task количество слов\obj\Debug\05 task количество слов.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\05 task количество слов\obj\Debug\05 task количество слов.exe
+D:\c#\my projects\08 строки\05 task количество слов\obj\Debug\05 task количество слов.pdb

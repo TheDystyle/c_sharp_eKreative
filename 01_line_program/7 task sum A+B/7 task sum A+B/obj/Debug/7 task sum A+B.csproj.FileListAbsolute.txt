@@ -1,0 +1,8 @@
+D:\c#\my projects\7 task sum A+B\7 task sum A+B\obj\Debug\7 task sum A+B.csproj.AssemblyReference.cache
+D:\c#\my projects\7 task sum A+B\7 task sum A+B\obj\Debug\7 task sum A+B.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\7 task sum A+B\7 task sum A+B\obj\Debug\7 task sum A+B.csproj.CoreCompileInputs.cache
+D:\c#\my projects\7 task sum A+B\7 task sum A+B\bin\Debug\7 task sum A+B.exe.config
+D:\c#\my projects\7 task sum A+B\7 task sum A+B\bin\Debug\7 task sum A+B.exe
+D:\c#\my projects\7 task sum A+B\7 task sum A+B\bin\Debug\7 task sum A+B.pdb
+D:\c#\my projects\7 task sum A+B\7 task sum A+B\obj\Debug\7 task sum A+B.exe
+D:\c#\my projects\7 task sum A+B\7 task sum A+B\obj\Debug\7 task sum A+B.pdb

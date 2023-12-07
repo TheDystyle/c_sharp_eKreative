@@ -1,0 +1,8 @@
+D:\c#\my projects\5 task sq and perimetr\5 task sq and perimetr\bin\Debug\5 task sq and perimetr.exe.config
+D:\c#\my projects\5 task sq and perimetr\5 task sq and perimetr\bin\Debug\5 task sq and perimetr.exe
+D:\c#\my projects\5 task sq and perimetr\5 task sq and perimetr\bin\Debug\5 task sq and perimetr.pdb
+D:\c#\my projects\5 task sq and perimetr\5 task sq and perimetr\obj\Debug\5 task sq and perimetr.csproj.AssemblyReference.cache
+D:\c#\my projects\5 task sq and perimetr\5 task sq and perimetr\obj\Debug\5 task sq and perimetr.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 task sq and perimetr\5 task sq and perimetr\obj\Debug\5 task sq and perimetr.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 task sq and perimetr\5 task sq and perimetr\obj\Debug\5 task sq and perimetr.exe
+D:\c#\my projects\5 task sq and perimetr\5 task sq and perimetr\obj\Debug\5 task sq and perimetr.pdb

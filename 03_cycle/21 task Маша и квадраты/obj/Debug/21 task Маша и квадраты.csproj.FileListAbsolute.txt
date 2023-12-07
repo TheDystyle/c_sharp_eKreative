@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\21 task Маша и квадраты\bin\Debug\21 task Маша и квадраты.exe.config
+D:\c#\my projects\3 цикли\21 task Маша и квадраты\bin\Debug\21 task Маша и квадраты.exe
+D:\c#\my projects\3 цикли\21 task Маша и квадраты\bin\Debug\21 task Маша и квадраты.pdb
+D:\c#\my projects\3 цикли\21 task Маша и квадраты\obj\Debug\21 task Маша и квадраты.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\21 task Маша и квадраты\obj\Debug\21 task Маша и квадраты.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\21 task Маша и квадраты\obj\Debug\21 task Маша и квадраты.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\21 task Маша и квадраты\obj\Debug\21 task Маша и квадраты.exe
+D:\c#\my projects\3 цикли\21 task Маша и квадраты\obj\Debug\21 task Маша и квадраты.pdb

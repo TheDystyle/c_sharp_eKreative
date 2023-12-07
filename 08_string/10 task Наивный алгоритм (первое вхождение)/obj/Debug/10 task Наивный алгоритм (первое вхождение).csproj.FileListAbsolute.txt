@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\10 task Наивный алгоритм (первое вхождение)\bin\Debug\10 task Наивный алгоритм (первое вхождение).exe.config
+D:\c#\my projects\08 строки\10 task Наивный алгоритм (первое вхождение)\bin\Debug\10 task Наивный алгоритм (первое вхождение).exe
+D:\c#\my projects\08 строки\10 task Наивный алгоритм (первое вхождение)\bin\Debug\10 task Наивный алгоритм (первое вхождение).pdb
+D:\c#\my projects\08 строки\10 task Наивный алгоритм (первое вхождение)\obj\Debug\10 task Наивный алгоритм (первое вхождение).csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\10 task Наивный алгоритм (первое вхождение)\obj\Debug\10 task Наивный алгоритм (первое вхождение).csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\10 task Наивный алгоритм (первое вхождение)\obj\Debug\10 task Наивный алгоритм (первое вхождение).csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\10 task Наивный алгоритм (первое вхождение)\obj\Debug\10 task Наивный алгоритм (первое вхождение).exe
+D:\c#\my projects\08 строки\10 task Наивный алгоритм (первое вхождение)\obj\Debug\10 task Наивный алгоритм (первое вхождение).pdb

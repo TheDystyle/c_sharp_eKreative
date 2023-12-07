@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\6 less\bin\Debug\6 less.exe.config
+D:\c#\my projects\3 цикли\6 less\bin\Debug\6 less.exe
+D:\c#\my projects\3 цикли\6 less\bin\Debug\6 less.pdb
+D:\c#\my projects\3 цикли\6 less\obj\Debug\6 less.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\6 less\obj\Debug\6 less.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\6 less\obj\Debug\6 less.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\6 less\obj\Debug\6 less.exe
+D:\c#\my projects\3 цикли\6 less\obj\Debug\6 less.pdb

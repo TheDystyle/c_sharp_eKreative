@@ -1,0 +1,8 @@
+D:\c#\my projects\06 сортування\01 task Следующий после минимального\bin\Debug\01 task Следующий после минимального.exe.config
+D:\c#\my projects\06 сортування\01 task Следующий после минимального\bin\Debug\01 task Следующий после минимального.exe
+D:\c#\my projects\06 сортування\01 task Следующий после минимального\bin\Debug\01 task Следующий после минимального.pdb
+D:\c#\my projects\06 сортування\01 task Следующий после минимального\obj\Debug\01 task Следующий после минимального.csproj.AssemblyReference.cache
+D:\c#\my projects\06 сортування\01 task Следующий после минимального\obj\Debug\01 task Следующий после минимального.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\06 сортування\01 task Следующий после минимального\obj\Debug\01 task Следующий после минимального.csproj.CoreCompileInputs.cache
+D:\c#\my projects\06 сортування\01 task Следующий после минимального\obj\Debug\01 task Следующий после минимального.exe
+D:\c#\my projects\06 сортування\01 task Следующий после минимального\obj\Debug\01 task Следующий после минимального.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\11 task по спирали\bin\Debug\11 task по спирали.exe.config
+D:\c#\my projects\07 двовимірні масиви\11 task по спирали\bin\Debug\11 task по спирали.exe
+D:\c#\my projects\07 двовимірні масиви\11 task по спирали\bin\Debug\11 task по спирали.pdb
+D:\c#\my projects\07 двовимірні масиви\11 task по спирали\obj\Debug\11 task по спирали.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\11 task по спирали\obj\Debug\11 task по спирали.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\11 task по спирали\obj\Debug\11 task по спирали.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\11 task по спирали\obj\Debug\11 task по спирали.exe
+D:\c#\my projects\07 двовимірні масиви\11 task по спирали\obj\Debug\11 task по спирали.pdb

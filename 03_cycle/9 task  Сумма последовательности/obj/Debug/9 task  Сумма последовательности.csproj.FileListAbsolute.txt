@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\9 task  Сумма последовательности\bin\Debug\9 task  Сумма последовательности.exe.config
+D:\c#\my projects\3 цикли\9 task  Сумма последовательности\bin\Debug\9 task  Сумма последовательности.exe
+D:\c#\my projects\3 цикли\9 task  Сумма последовательности\bin\Debug\9 task  Сумма последовательности.pdb
+D:\c#\my projects\3 цикли\9 task  Сумма последовательности\obj\Debug\9 task  Сумма последовательности.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\9 task  Сумма последовательности\obj\Debug\9 task  Сумма последовательности.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\9 task  Сумма последовательности\obj\Debug\9 task  Сумма последовательности.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\9 task  Сумма последовательности\obj\Debug\9 task  Сумма последовательности.exe
+D:\c#\my projects\3 цикли\9 task  Сумма последовательности\obj\Debug\9 task  Сумма последовательности.pdb

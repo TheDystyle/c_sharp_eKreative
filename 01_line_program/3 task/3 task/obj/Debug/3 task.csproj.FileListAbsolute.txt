@@ -1,0 +1,8 @@
+D:\c#\my projects\3 task\3 task\bin\Debug\3 task.exe.config
+D:\c#\my projects\3 task\3 task\bin\Debug\3 task.exe
+D:\c#\my projects\3 task\3 task\bin\Debug\3 task.pdb
+D:\c#\my projects\3 task\3 task\obj\Debug\3 task.csproj.AssemblyReference.cache
+D:\c#\my projects\3 task\3 task\obj\Debug\3 task.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 task\3 task\obj\Debug\3 task.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 task\3 task\obj\Debug\3 task.exe
+D:\c#\my projects\3 task\3 task\obj\Debug\3 task.pdb

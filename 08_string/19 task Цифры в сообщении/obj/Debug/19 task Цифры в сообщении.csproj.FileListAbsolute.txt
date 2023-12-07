@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\19 task Цифры в сообщении\bin\Debug\19 task Цифры в сообщении.exe.config
+D:\c#\my projects\08 строки\19 task Цифры в сообщении\bin\Debug\19 task Цифры в сообщении.exe
+D:\c#\my projects\08 строки\19 task Цифры в сообщении\bin\Debug\19 task Цифры в сообщении.pdb
+D:\c#\my projects\08 строки\19 task Цифры в сообщении\obj\Debug\19 task Цифры в сообщении.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\19 task Цифры в сообщении\obj\Debug\19 task Цифры в сообщении.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\19 task Цифры в сообщении\obj\Debug\19 task Цифры в сообщении.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\19 task Цифры в сообщении\obj\Debug\19 task Цифры в сообщении.exe
+D:\c#\my projects\08 строки\19 task Цифры в сообщении\obj\Debug\19 task Цифры в сообщении.pdb

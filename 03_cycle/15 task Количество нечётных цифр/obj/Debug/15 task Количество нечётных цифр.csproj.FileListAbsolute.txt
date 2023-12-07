@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\15 task Количество нечётных цифр\bin\Debug\15 task Количество нечётных цифр.exe.config
+D:\c#\my projects\3 цикли\15 task Количество нечётных цифр\bin\Debug\15 task Количество нечётных цифр.exe
+D:\c#\my projects\3 цикли\15 task Количество нечётных цифр\bin\Debug\15 task Количество нечётных цифр.pdb
+D:\c#\my projects\3 цикли\15 task Количество нечётных цифр\obj\Debug\15 task Количество нечётных цифр.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\15 task Количество нечётных цифр\obj\Debug\15 task Количество нечётных цифр.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\15 task Количество нечётных цифр\obj\Debug\15 task Количество нечётных цифр.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\15 task Количество нечётных цифр\obj\Debug\15 task Количество нечётных цифр.exe
+D:\c#\my projects\3 цикли\15 task Количество нечётных цифр\obj\Debug\15 task Количество нечётных цифр.pdb

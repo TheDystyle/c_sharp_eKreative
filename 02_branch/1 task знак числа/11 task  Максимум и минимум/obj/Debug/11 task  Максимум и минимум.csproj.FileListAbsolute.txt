@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\11 task  Максимум и минимум\bin\Debug\11 task  Максимум и минимум.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\11 task  Максимум и минимум\bin\Debug\11 task  Максимум и минимум.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\11 task  Максимум и минимум\bin\Debug\11 task  Максимум и минимум.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\11 task  Максимум и минимум\obj\Debug\11 task  Максимум и минимум.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\11 task  Максимум и минимум\obj\Debug\11 task  Максимум и минимум.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\11 task  Максимум и минимум\obj\Debug\11 task  Максимум и минимум.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\11 task  Максимум и минимум\obj\Debug\11 task  Максимум и минимум.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\11 task  Максимум и минимум\obj\Debug\11 task  Максимум и минимум.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\02 task  Сортировка периметра\bin\Debug\02 task  Сортировка периметра.exe.config
+D:\c#\my projects\07 двовимірні масиви\02 task  Сортировка периметра\bin\Debug\02 task  Сортировка периметра.exe
+D:\c#\my projects\07 двовимірні масиви\02 task  Сортировка периметра\bin\Debug\02 task  Сортировка периметра.pdb
+D:\c#\my projects\07 двовимірні масиви\02 task  Сортировка периметра\obj\Debug\02 task  Сортировка периметра.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\02 task  Сортировка периметра\obj\Debug\02 task  Сортировка периметра.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\02 task  Сортировка периметра\obj\Debug\02 task  Сортировка периметра.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\02 task  Сортировка периметра\obj\Debug\02 task  Сортировка периметра.exe
+D:\c#\my projects\07 двовимірні масиви\02 task  Сортировка периметра\obj\Debug\02 task  Сортировка периметра.pdb

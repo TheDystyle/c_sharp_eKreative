@@ -1,0 +1,8 @@
+D:\c#\my projects\06 сортування\02 task  Сортировка - чётные и нечётные\bin\Debug\02 task  Сортировка - чётные и нечётные.exe.config
+D:\c#\my projects\06 сортування\02 task  Сортировка - чётные и нечётные\bin\Debug\02 task  Сортировка - чётные и нечётные.exe
+D:\c#\my projects\06 сортування\02 task  Сортировка - чётные и нечётные\bin\Debug\02 task  Сортировка - чётные и нечётные.pdb
+D:\c#\my projects\06 сортування\02 task  Сортировка - чётные и нечётные\obj\Debug\02 task  Сортировка - чётные и нечётные.csproj.AssemblyReference.cache
+D:\c#\my projects\06 сортування\02 task  Сортировка - чётные и нечётные\obj\Debug\02 task  Сортировка - чётные и нечётные.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\06 сортування\02 task  Сортировка - чётные и нечётные\obj\Debug\02 task  Сортировка - чётные и нечётные.csproj.CoreCompileInputs.cache
+D:\c#\my projects\06 сортування\02 task  Сортировка - чётные и нечётные\obj\Debug\02 task  Сортировка - чётные и нечётные.exe
+D:\c#\my projects\06 сортування\02 task  Сортировка - чётные и нечётные\obj\Debug\02 task  Сортировка - чётные и нечётные.pdb

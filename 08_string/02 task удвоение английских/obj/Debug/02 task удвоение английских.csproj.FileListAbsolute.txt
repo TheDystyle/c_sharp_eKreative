@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\02 task удвоение английских\bin\Debug\02 task удвоение английских.exe.config
+D:\c#\my projects\08 строки\02 task удвоение английских\bin\Debug\02 task удвоение английских.exe
+D:\c#\my projects\08 строки\02 task удвоение английских\bin\Debug\02 task удвоение английских.pdb
+D:\c#\my projects\08 строки\02 task удвоение английских\obj\Debug\02 task удвоение английских.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\02 task удвоение английских\obj\Debug\02 task удвоение английских.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\02 task удвоение английских\obj\Debug\02 task удвоение английских.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\02 task удвоение английских\obj\Debug\02 task удвоение английских.exe
+D:\c#\my projects\08 строки\02 task удвоение английских\obj\Debug\02 task удвоение английских.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\07 task количество столбцов\bin\Debug\07 task количество столбцов.exe.config
+D:\c#\my projects\07 двовимірні масиви\07 task количество столбцов\bin\Debug\07 task количество столбцов.exe
+D:\c#\my projects\07 двовимірні масиви\07 task количество столбцов\bin\Debug\07 task количество столбцов.pdb
+D:\c#\my projects\07 двовимірні масиви\07 task количество столбцов\obj\Debug\07 task количество столбцов.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\07 task количество столбцов\obj\Debug\07 task количество столбцов.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\07 task количество столбцов\obj\Debug\07 task количество столбцов.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\07 task количество столбцов\obj\Debug\07 task количество столбцов.exe
+D:\c#\my projects\07 двовимірні масиви\07 task количество столбцов\obj\Debug\07 task количество столбцов.pdb

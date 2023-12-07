@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\4 task Не выполняется хотя бы одно из условий\bin\Debug\4 task Не выполняется хотя бы одно из условий.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\4 task Не выполняется хотя бы одно из условий\bin\Debug\4 task Не выполняется хотя бы одно из условий.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\4 task Не выполняется хотя бы одно из условий\bin\Debug\4 task Не выполняется хотя бы одно из условий.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\4 task Не выполняется хотя бы одно из условий\obj\Debug\4 task Не выполняется хотя бы одно из условий.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\4 task Не выполняется хотя бы одно из условий\obj\Debug\4 task Не выполняется хотя бы одно из условий.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\4 task Не выполняется хотя бы одно из условий\obj\Debug\4 task Не выполняется хотя бы одно из условий.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\4 task Не выполняется хотя бы одно из условий\obj\Debug\4 task Не выполняется хотя бы одно из условий.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\4 task Не выполняется хотя бы одно из условий\obj\Debug\4 task Не выполняется хотя бы одно из условий.pdb

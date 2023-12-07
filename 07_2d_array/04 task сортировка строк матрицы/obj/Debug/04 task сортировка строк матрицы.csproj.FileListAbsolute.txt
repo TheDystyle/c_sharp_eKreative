@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\04 task сортировка строк матрицы\bin\Debug\04 task сортировка строк матрицы.exe.config
+D:\c#\my projects\07 двовимірні масиви\04 task сортировка строк матрицы\bin\Debug\04 task сортировка строк матрицы.exe
+D:\c#\my projects\07 двовимірні масиви\04 task сортировка строк матрицы\bin\Debug\04 task сортировка строк матрицы.pdb
+D:\c#\my projects\07 двовимірні масиви\04 task сортировка строк матрицы\obj\Debug\04 task сортировка строк матрицы.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\04 task сортировка строк матрицы\obj\Debug\04 task сортировка строк матрицы.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\04 task сортировка строк матрицы\obj\Debug\04 task сортировка строк матрицы.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\04 task сортировка строк матрицы\obj\Debug\04 task сортировка строк матрицы.exe
+D:\c#\my projects\07 двовимірні масиви\04 task сортировка строк матрицы\obj\Debug\04 task сортировка строк матрицы.pdb

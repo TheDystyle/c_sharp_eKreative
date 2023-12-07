@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\22 task Маша и дробные числа\bin\Debug\22 task Маша и дробные числа.exe.config
+D:\c#\my projects\3 цикли\22 task Маша и дробные числа\bin\Debug\22 task Маша и дробные числа.exe
+D:\c#\my projects\3 цикли\22 task Маша и дробные числа\bin\Debug\22 task Маша и дробные числа.pdb
+D:\c#\my projects\3 цикли\22 task Маша и дробные числа\obj\Debug\22 task Маша и дробные числа.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\22 task Маша и дробные числа\obj\Debug\22 task Маша и дробные числа.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\22 task Маша и дробные числа\obj\Debug\22 task Маша и дробные числа.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\22 task Маша и дробные числа\obj\Debug\22 task Маша и дробные числа.exe
+D:\c#\my projects\3 цикли\22 task Маша и дробные числа\obj\Debug\22 task Маша и дробные числа.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\27 task  Число в горизонтальной рамке\bin\Debug\27 task  Число в горизонтальной рамке.exe.config
+D:\c#\my projects\3 цикли\27 task  Число в горизонтальной рамке\bin\Debug\27 task  Число в горизонтальной рамке.exe
+D:\c#\my projects\3 цикли\27 task  Число в горизонтальной рамке\bin\Debug\27 task  Число в горизонтальной рамке.pdb
+D:\c#\my projects\3 цикли\27 task  Число в горизонтальной рамке\obj\Debug\27 task  Число в горизонтальной рамке.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\27 task  Число в горизонтальной рамке\obj\Debug\27 task  Число в горизонтальной рамке.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\27 task  Число в горизонтальной рамке\obj\Debug\27 task  Число в горизонтальной рамке.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\27 task  Число в горизонтальной рамке\obj\Debug\27 task  Число в горизонтальной рамке.exe
+D:\c#\my projects\3 цикли\27 task  Число в горизонтальной рамке\obj\Debug\27 task  Число в горизонтальной рамке.pdb

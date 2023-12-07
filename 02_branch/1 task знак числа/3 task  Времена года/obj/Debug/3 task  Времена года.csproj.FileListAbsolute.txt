@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\3 task  Времена года\bin\Debug\3 task  Времена года.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\3 task  Времена года\bin\Debug\3 task  Времена года.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\3 task  Времена года\bin\Debug\3 task  Времена года.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\3 task  Времена года\obj\Debug\3 task  Времена года.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\3 task  Времена года\obj\Debug\3 task  Времена года.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\3 task  Времена года\obj\Debug\3 task  Времена года.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\3 task  Времена года\obj\Debug\3 task  Времена года.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\3 task  Времена года\obj\Debug\3 task  Времена года.pdb

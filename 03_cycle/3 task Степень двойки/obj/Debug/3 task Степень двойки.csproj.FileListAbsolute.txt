@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\3 task Степень двойки\bin\Debug\3 task Степень двойки.exe.config
+D:\c#\my projects\3 цикли\3 task Степень двойки\bin\Debug\3 task Степень двойки.exe
+D:\c#\my projects\3 цикли\3 task Степень двойки\bin\Debug\3 task Степень двойки.pdb
+D:\c#\my projects\3 цикли\3 task Степень двойки\obj\Debug\3 task Степень двойки.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\3 task Степень двойки\obj\Debug\3 task Степень двойки.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\3 task Степень двойки\obj\Debug\3 task Степень двойки.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\3 task Степень двойки\obj\Debug\3 task Степень двойки.exe
+D:\c#\my projects\3 цикли\3 task Степень двойки\obj\Debug\3 task Степень двойки.pdb

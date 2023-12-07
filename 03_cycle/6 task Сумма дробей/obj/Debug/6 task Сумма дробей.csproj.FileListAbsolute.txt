@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\6 task Сумма дробей\bin\Debug\6 task Сумма дробей.exe.config
+D:\c#\my projects\3 цикли\6 task Сумма дробей\bin\Debug\6 task Сумма дробей.exe
+D:\c#\my projects\3 цикли\6 task Сумма дробей\bin\Debug\6 task Сумма дробей.pdb
+D:\c#\my projects\3 цикли\6 task Сумма дробей\obj\Debug\6 task Сумма дробей.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\6 task Сумма дробей\obj\Debug\6 task Сумма дробей.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\6 task Сумма дробей\obj\Debug\6 task Сумма дробей.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\6 task Сумма дробей\obj\Debug\6 task Сумма дробей.exe
+D:\c#\my projects\3 цикли\6 task Сумма дробей\obj\Debug\6 task Сумма дробей.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\18 task Чаще остальных\bin\Debug\18 task Чаще остальных.exe.config
+D:\c#\my projects\08 строки\18 task Чаще остальных\bin\Debug\18 task Чаще остальных.exe
+D:\c#\my projects\08 строки\18 task Чаще остальных\bin\Debug\18 task Чаще остальных.pdb
+D:\c#\my projects\08 строки\18 task Чаще остальных\obj\Debug\18 task Чаще остальных.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\18 task Чаще остальных\obj\Debug\18 task Чаще остальных.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\18 task Чаще остальных\obj\Debug\18 task Чаще остальных.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\18 task Чаще остальных\obj\Debug\18 task Чаще остальных.exe
+D:\c#\my projects\08 строки\18 task Чаще остальных\obj\Debug\18 task Чаще остальных.pdb

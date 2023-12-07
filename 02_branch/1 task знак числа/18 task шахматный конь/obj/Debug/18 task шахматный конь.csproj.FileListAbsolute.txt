@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\18 task шахматный конь\bin\Debug\18 task шахматный конь.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\18 task шахматный конь\bin\Debug\18 task шахматный конь.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\18 task шахматный конь\bin\Debug\18 task шахматный конь.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\18 task шахматный конь\obj\Debug\18 task шахматный конь.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\18 task шахматный конь\obj\Debug\18 task шахматный конь.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\18 task шахматный конь\obj\Debug\18 task шахматный конь.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\18 task шахматный конь\obj\Debug\18 task шахматный конь.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\18 task шахматный конь\obj\Debug\18 task шахматный конь.pdb

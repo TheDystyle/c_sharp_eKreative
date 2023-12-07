@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\12 task среднее арифметическое\bin\Debug\12 task среднее арифметическое.exe.config
+D:\c#\my projects\07 двовимірні масиви\12 task среднее арифметическое\bin\Debug\12 task среднее арифметическое.exe
+D:\c#\my projects\07 двовимірні масиви\12 task среднее арифметическое\bin\Debug\12 task среднее арифметическое.pdb
+D:\c#\my projects\07 двовимірні масиви\12 task среднее арифметическое\obj\Debug\12 task среднее арифметическое.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\12 task среднее арифметическое\obj\Debug\12 task среднее арифметическое.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\12 task среднее арифметическое\obj\Debug\12 task среднее арифметическое.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\12 task среднее арифметическое\obj\Debug\12 task среднее арифметическое.exe
+D:\c#\my projects\07 двовимірні масиви\12 task среднее арифметическое\obj\Debug\12 task среднее арифметическое.pdb

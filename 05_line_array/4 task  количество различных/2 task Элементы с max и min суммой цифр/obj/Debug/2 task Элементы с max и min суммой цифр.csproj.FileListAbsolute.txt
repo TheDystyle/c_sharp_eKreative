@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\2 task Элементы с max и min суммой цифр\bin\Debug\2 task Элементы с max и min суммой цифр.exe.config
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\2 task Элементы с max и min суммой цифр\bin\Debug\2 task Элементы с max и min суммой цифр.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\2 task Элементы с max и min суммой цифр\bin\Debug\2 task Элементы с max и min суммой цифр.pdb
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\2 task Элементы с max и min суммой цифр\obj\Debug\2 task Элементы с max и min суммой цифр.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\2 task Элементы с max и min суммой цифр\obj\Debug\2 task Элементы с max и min суммой цифр.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\2 task Элементы с max и min суммой цифр\obj\Debug\2 task Элементы с max и min суммой цифр.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\2 task Элементы с max и min суммой цифр\obj\Debug\2 task Элементы с max и min суммой цифр.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\2 task Элементы с max и min суммой цифр\obj\Debug\2 task Элементы с max и min суммой цифр.pdb

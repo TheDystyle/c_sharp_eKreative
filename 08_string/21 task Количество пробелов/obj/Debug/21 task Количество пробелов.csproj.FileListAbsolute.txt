@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\21 task Количество пробелов\bin\Debug\21 task Количество пробелов.exe.config
+D:\c#\my projects\08 строки\21 task Количество пробелов\bin\Debug\21 task Количество пробелов.exe
+D:\c#\my projects\08 строки\21 task Количество пробелов\bin\Debug\21 task Количество пробелов.pdb
+D:\c#\my projects\08 строки\21 task Количество пробелов\obj\Debug\21 task Количество пробелов.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\21 task Количество пробелов\obj\Debug\21 task Количество пробелов.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\21 task Количество пробелов\obj\Debug\21 task Количество пробелов.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\21 task Количество пробелов\obj\Debug\21 task Количество пробелов.exe
+D:\c#\my projects\08 строки\21 task Количество пробелов\obj\Debug\21 task Количество пробелов.pdb

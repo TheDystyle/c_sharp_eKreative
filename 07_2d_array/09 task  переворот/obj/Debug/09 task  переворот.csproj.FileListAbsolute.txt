@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\09 task  переворот\bin\Debug\09 task  переворот.exe.config
+D:\c#\my projects\07 двовимірні масиви\09 task  переворот\bin\Debug\09 task  переворот.exe
+D:\c#\my projects\07 двовимірні масиви\09 task  переворот\bin\Debug\09 task  переворот.pdb
+D:\c#\my projects\07 двовимірні масиви\09 task  переворот\obj\Debug\09 task  переворот.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\09 task  переворот\obj\Debug\09 task  переворот.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\09 task  переворот\obj\Debug\09 task  переворот.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\09 task  переворот\obj\Debug\09 task  переворот.exe
+D:\c#\my projects\07 двовимірні масиви\09 task  переворот\obj\Debug\09 task  переворот.pdb

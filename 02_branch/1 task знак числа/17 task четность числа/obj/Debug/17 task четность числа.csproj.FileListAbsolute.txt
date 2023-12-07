@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\17 task четность числа\bin\Debug\17 task четность числа.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\17 task четность числа\bin\Debug\17 task четность числа.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\17 task четность числа\bin\Debug\17 task четность числа.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\17 task четность числа\obj\Debug\17 task четность числа.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\17 task четность числа\obj\Debug\17 task четность числа.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\17 task четность числа\obj\Debug\17 task четность числа.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\17 task четность числа\obj\Debug\17 task четность числа.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\17 task четность числа\obj\Debug\17 task четность числа.pdb

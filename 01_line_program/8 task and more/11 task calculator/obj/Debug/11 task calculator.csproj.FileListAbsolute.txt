@@ -1,0 +1,8 @@
+D:\c#\my projects\8 task and more\11 task calculator\bin\Debug\11 task calculator.exe.config
+D:\c#\my projects\8 task and more\11 task calculator\bin\Debug\11 task calculator.exe
+D:\c#\my projects\8 task and more\11 task calculator\bin\Debug\11 task calculator.pdb
+D:\c#\my projects\8 task and more\11 task calculator\obj\Debug\11 task calculator.csproj.AssemblyReference.cache
+D:\c#\my projects\8 task and more\11 task calculator\obj\Debug\11 task calculator.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\8 task and more\11 task calculator\obj\Debug\11 task calculator.csproj.CoreCompileInputs.cache
+D:\c#\my projects\8 task and more\11 task calculator\obj\Debug\11 task calculator.exe
+D:\c#\my projects\8 task and more\11 task calculator\obj\Debug\11 task calculator.pdb

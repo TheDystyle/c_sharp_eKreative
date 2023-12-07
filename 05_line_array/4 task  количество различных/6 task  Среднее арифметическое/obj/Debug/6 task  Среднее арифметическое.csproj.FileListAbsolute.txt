@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\6 task  Среднее арифметическое\bin\Debug\6 task  Среднее арифметическое.exe.config
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\6 task  Среднее арифметическое\bin\Debug\6 task  Среднее арифметическое.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\6 task  Среднее арифметическое\bin\Debug\6 task  Среднее арифметическое.pdb
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\6 task  Среднее арифметическое\obj\Debug\6 task  Среднее арифметическое.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\6 task  Среднее арифметическое\obj\Debug\6 task  Среднее арифметическое.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\6 task  Среднее арифметическое\obj\Debug\6 task  Среднее арифметическое.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\6 task  Среднее арифметическое\obj\Debug\6 task  Среднее арифметическое.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\6 task  Среднее арифметическое\obj\Debug\6 task  Среднее арифметическое.pdb

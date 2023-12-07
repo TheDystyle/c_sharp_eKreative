@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\28_task_Сумма_четырёхзначных_чисел\bin\Debug\28_task_Сумма_четырёхзначных_чисел.exe.config
+D:\c#\my projects\3 цикли\28_task_Сумма_четырёхзначных_чисел\bin\Debug\28_task_Сумма_четырёхзначных_чисел.exe
+D:\c#\my projects\3 цикли\28_task_Сумма_четырёхзначных_чисел\bin\Debug\28_task_Сумма_четырёхзначных_чисел.pdb
+D:\c#\my projects\3 цикли\28_task_Сумма_четырёхзначных_чисел\obj\Debug\28_task_Сумма_четырёхзначных_чисел.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\28_task_Сумма_четырёхзначных_чисел\obj\Debug\28_task_Сумма_четырёхзначных_чисел.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\28_task_Сумма_четырёхзначных_чисел\obj\Debug\28_task_Сумма_четырёхзначных_чисел.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\28_task_Сумма_четырёхзначных_чисел\obj\Debug\28_task_Сумма_четырёхзначных_чисел.exe
+D:\c#\my projects\3 цикли\28_task_Сумма_четырёхзначных_чисел\obj\Debug\28_task_Сумма_четырёхзначных_чисел.pdb

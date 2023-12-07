@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\00 task тренування\00 task тренування\bin\Debug\00 task тренування.exe.config
+D:\c#\my projects\08 строки\00 task тренування\00 task тренування\bin\Debug\00 task тренування.exe
+D:\c#\my projects\08 строки\00 task тренування\00 task тренування\bin\Debug\00 task тренування.pdb
+D:\c#\my projects\08 строки\00 task тренування\00 task тренування\obj\Debug\00 task тренування.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\00 task тренування\00 task тренування\obj\Debug\00 task тренування.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\00 task тренування\00 task тренування\obj\Debug\00 task тренування.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\00 task тренування\00 task тренування\obj\Debug\00 task тренування.exe
+D:\c#\my projects\08 строки\00 task тренування\00 task тренування\obj\Debug\00 task тренування.pdb

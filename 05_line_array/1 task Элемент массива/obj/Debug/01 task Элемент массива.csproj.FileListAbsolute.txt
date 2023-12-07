@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\1 task Элемент массива\bin\Debug\1 task Элемент массива.exe.config
+D:\c#\my projects\5 лінійні масиви\1 task Элемент массива\bin\Debug\1 task Элемент массива.exe
+D:\c#\my projects\5 лінійні масиви\1 task Элемент массива\bin\Debug\1 task Элемент массива.pdb
+D:\c#\my projects\5 лінійні масиви\1 task Элемент массива\obj\Debug\01 task Элемент массива.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\1 task Элемент массива\obj\Debug\01 task Элемент массива.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\1 task Элемент массива\obj\Debug\01 task Элемент массива.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\1 task Элемент массива\obj\Debug\1 task Элемент массива.exe
+D:\c#\my projects\5 лінійні масиви\1 task Элемент массива\obj\Debug\1 task Элемент массива.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\7 task Максимум, минимум, сумма\bin\Debug\7 task Максимум, минимум, сумма.exe.config
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\7 task Максимум, минимум, сумма\bin\Debug\7 task Максимум, минимум, сумма.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\7 task Максимум, минимум, сумма\bin\Debug\7 task Максимум, минимум, сумма.pdb
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\7 task Максимум, минимум, сумма\obj\Debug\07 task Максимум, минимум, сумма.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\7 task Максимум, минимум, сумма\obj\Debug\07 task Максимум, минимум, сумма.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\7 task Максимум, минимум, сумма\obj\Debug\07 task Максимум, минимум, сумма.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\7 task Максимум, минимум, сумма\obj\Debug\7 task Максимум, минимум, сумма.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\7 task Максимум, минимум, сумма\obj\Debug\7 task Максимум, минимум, сумма.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\16 task Расшифровать\bin\Debug\16 task Расшифровать.exe.config
+D:\c#\my projects\08 строки\16 task Расшифровать\bin\Debug\16 task Расшифровать.exe
+D:\c#\my projects\08 строки\16 task Расшифровать\bin\Debug\16 task Расшифровать.pdb
+D:\c#\my projects\08 строки\16 task Расшифровать\obj\Debug\16 task Расшифровать.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\16 task Расшифровать\obj\Debug\16 task Расшифровать.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\16 task Расшифровать\obj\Debug\16 task Расшифровать.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\16 task Расшифровать\obj\Debug\16 task Расшифровать.exe
+D:\c#\my projects\08 строки\16 task Расшифровать\obj\Debug\16 task Расшифровать.pdb

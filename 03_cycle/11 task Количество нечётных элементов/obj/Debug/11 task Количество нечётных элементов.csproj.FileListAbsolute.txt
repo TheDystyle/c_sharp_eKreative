@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\11 task Количество нечётных элементов\bin\Debug\11 task Количество нечётных элементов.exe.config
+D:\c#\my projects\3 цикли\11 task Количество нечётных элементов\bin\Debug\11 task Количество нечётных элементов.exe
+D:\c#\my projects\3 цикли\11 task Количество нечётных элементов\bin\Debug\11 task Количество нечётных элементов.pdb
+D:\c#\my projects\3 цикли\11 task Количество нечётных элементов\obj\Debug\11 task Количество нечётных элементов.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\11 task Количество нечётных элементов\obj\Debug\11 task Количество нечётных элементов.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\11 task Количество нечётных элементов\obj\Debug\11 task Количество нечётных элементов.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\11 task Количество нечётных элементов\obj\Debug\11 task Количество нечётных элементов.exe
+D:\c#\my projects\3 цикли\11 task Количество нечётных элементов\obj\Debug\11 task Количество нечётных элементов.pdb

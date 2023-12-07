@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\01 task Вывод двумерного массива\bin\Debug\01 task Вывод двумерного массива.exe.config
+D:\c#\my projects\07 двовимірні масиви\01 task Вывод двумерного массива\bin\Debug\01 task Вывод двумерного массива.exe
+D:\c#\my projects\07 двовимірні масиви\01 task Вывод двумерного массива\bin\Debug\01 task Вывод двумерного массива.pdb
+D:\c#\my projects\07 двовимірні масиви\01 task Вывод двумерного массива\obj\Debug\01 task Вывод двумерного массива.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\01 task Вывод двумерного массива\obj\Debug\01 task Вывод двумерного массива.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\01 task Вывод двумерного массива\obj\Debug\01 task Вывод двумерного массива.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\01 task Вывод двумерного массива\obj\Debug\01 task Вывод двумерного массива.exe
+D:\c#\my projects\07 двовимірні масиви\01 task Вывод двумерного массива\obj\Debug\01 task Вывод двумерного массива.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\23 task Маша и будильники\bin\Debug\23 task Маша и будильники.exe.config
+D:\c#\my projects\3 цикли\23 task Маша и будильники\bin\Debug\23 task Маша и будильники.exe
+D:\c#\my projects\3 цикли\23 task Маша и будильники\bin\Debug\23 task Маша и будильники.pdb
+D:\c#\my projects\3 цикли\23 task Маша и будильники\obj\Debug\23 task Маша и будильники.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\23 task Маша и будильники\obj\Debug\23 task Маша и будильники.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\23 task Маша и будильники\obj\Debug\23 task Маша и будильники.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\23 task Маша и будильники\obj\Debug\23 task Маша и будильники.exe
+D:\c#\my projects\3 цикли\23 task Маша и будильники\obj\Debug\23 task Маша и будильники.pdb

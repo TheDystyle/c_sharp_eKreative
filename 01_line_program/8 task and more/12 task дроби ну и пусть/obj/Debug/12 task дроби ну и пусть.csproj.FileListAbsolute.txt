@@ -1,0 +1,8 @@
+D:\c#\my projects\8 task and more\12 task дроби ну и пусть\bin\Debug\12 task дроби ну и пусть.exe.config
+D:\c#\my projects\8 task and more\12 task дроби ну и пусть\bin\Debug\12 task дроби ну и пусть.exe
+D:\c#\my projects\8 task and more\12 task дроби ну и пусть\bin\Debug\12 task дроби ну и пусть.pdb
+D:\c#\my projects\8 task and more\12 task дроби ну и пусть\obj\Debug\12 task дроби ну и пусть.csproj.AssemblyReference.cache
+D:\c#\my projects\8 task and more\12 task дроби ну и пусть\obj\Debug\12 task дроби ну и пусть.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\8 task and more\12 task дроби ну и пусть\obj\Debug\12 task дроби ну и пусть.csproj.CoreCompileInputs.cache
+D:\c#\my projects\8 task and more\12 task дроби ну и пусть\obj\Debug\12 task дроби ну и пусть.exe
+D:\c#\my projects\8 task and more\12 task дроби ну и пусть\obj\Debug\12 task дроби ну и пусть.pdb

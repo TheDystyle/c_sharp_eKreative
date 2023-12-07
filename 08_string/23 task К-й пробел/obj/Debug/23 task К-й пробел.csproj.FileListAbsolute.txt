@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\23 task К-й пробел\bin\Debug\23 task К-й пробел.exe.config
+D:\c#\my projects\08 строки\23 task К-й пробел\bin\Debug\23 task К-й пробел.exe
+D:\c#\my projects\08 строки\23 task К-й пробел\bin\Debug\23 task К-й пробел.pdb
+D:\c#\my projects\08 строки\23 task К-й пробел\obj\Debug\23 task К-й пробел.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\23 task К-й пробел\obj\Debug\23 task К-й пробел.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\23 task К-й пробел\obj\Debug\23 task К-й пробел.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\23 task К-й пробел\obj\Debug\23 task К-й пробел.exe
+D:\c#\my projects\08 строки\23 task К-й пробел\obj\Debug\23 task К-й пробел.pdb

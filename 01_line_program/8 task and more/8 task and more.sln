@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8 task and more", "8 task and more\8 task and more.csproj", "{F4840610-19D8-4378-B389-404368B962BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 task", "9 task\9 task.csproj", "{D751F286-D64E-4BAB-8F3D-08F0143DC049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 task Pascal Hello World", "10 task Pascal Hello World\10 task Pascal Hello World.csproj", "{093659FA-1781-41E6-A0CC-9FBEA29EDD37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 task calculator", "11 task calculator\11 task calculator.csproj", "{A5CFE10C-EBF6-4600-8ECC-262A5159F74F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 task программисты в уме не умножают", "14 task программисты в уме не умножают\14 task программисты в уме не умножают.csproj", "{7DCDD92F-1426-4FCF-9D47-D5D1E2E07561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 task програмисты не делят в уме", "15 task програмисты не делят в уме\15 task програмисты не делят в уме.csproj", "{7AFFA084-B573-4311-B33F-167C566BB076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 task программисты в уме не считают", "16 task программисты в уме не считают\16 task программисты в уме не считают.csproj", "{60E860DF-CBA7-495B-849D-41B47D4D2EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 task feet to meter", "17 task feet to meter\17 task feet to meter.csproj", "{9C832C48-FA60-4607-8C6D-62C508B89F52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 task дроби ну и пусть", "12 task дроби ну и пусть\12 task дроби ну и пусть.csproj", "{DD5E49CE-96B7-4986-B6D3-9A4D2F8974F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 task посчитать легко", "13 task посчитать легко\13 task посчитать легко.csproj", "{9BE66123-493A-4845-B42F-185ACCD22AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4840610-19D8-4378-B389-404368B962BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4840610-19D8-4378-B389-404368B962BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4840610-19D8-4378-B389-404368B962BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4840610-19D8-4378-B389-404368B962BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D751F286-D64E-4BAB-8F3D-08F0143DC049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D751F286-D64E-4BAB-8F3D-08F0143DC049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D751F286-D64E-4BAB-8F3D-08F0143DC049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D751F286-D64E-4BAB-8F3D-08F0143DC049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093659FA-1781-41E6-A0CC-9FBEA29EDD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093659FA-1781-41E6-A0CC-9FBEA29EDD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093659FA-1781-41E6-A0CC-9FBEA29EDD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093659FA-1781-41E6-A0CC-9FBEA29EDD37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CFE10C-EBF6-4600-8ECC-262A5159F74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CFE10C-EBF6-4600-8ECC-262A5159F74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CFE10C-EBF6-4600-8ECC-262A5159F74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CFE10C-EBF6-4600-8ECC-262A5159F74F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCDD92F-1426-4FCF-9D47-D5D1E2E07561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCDD92F-1426-4FCF-9D47-D5D1E2E07561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCDD92F-1426-4FCF-9D47-D5D1E2E07561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCDD92F-1426-4FCF-9D47-D5D1E2E07561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFFA084-B573-4311-B33F-167C566BB076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFFA084-B573-4311-B33F-167C566BB076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFFA084-B573-4311-B33F-167C566BB076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFFA084-B573-4311-B33F-167C566BB076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E860DF-CBA7-495B-849D-41B47D4D2EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E860DF-CBA7-495B-849D-41B47D4D2EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E860DF-CBA7-495B-849D-41B47D4D2EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E860DF-CBA7-495B-849D-41B47D4D2EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C832C48-FA60-4607-8C6D-62C508B89F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C832C48-FA60-4607-8C6D-62C508B89F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C832C48-FA60-4607-8C6D-62C508B89F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C832C48-FA60-4607-8C6D-62C508B89F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD5E49CE-96B7-4986-B6D3-9A4D2F8974F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5E49CE-96B7-4986-B6D3-9A4D2F8974F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5E49CE-96B7-4986-B6D3-9A4D2F8974F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5E49CE-96B7-4986-B6D3-9A4D2F8974F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE66123-493A-4845-B42F-185ACCD22AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE66123-493A-4845-B42F-185ACCD22AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE66123-493A-4845-B42F-185ACCD22AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE66123-493A-4845-B42F-185ACCD22AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5C5291D-63D2-42EB-ADBE-F063C74E575F}
+	EndGlobalSection
+EndGlobal

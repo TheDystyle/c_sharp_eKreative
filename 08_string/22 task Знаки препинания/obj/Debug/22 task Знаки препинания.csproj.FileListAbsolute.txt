@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\22 task Знаки препинания\bin\Debug\22 task Знаки препинания.exe.config
+D:\c#\my projects\08 строки\22 task Знаки препинания\bin\Debug\22 task Знаки препинания.exe
+D:\c#\my projects\08 строки\22 task Знаки препинания\bin\Debug\22 task Знаки препинания.pdb
+D:\c#\my projects\08 строки\22 task Знаки препинания\obj\Debug\22 task Знаки препинания.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\22 task Знаки препинания\obj\Debug\22 task Знаки препинания.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\22 task Знаки препинания\obj\Debug\22 task Знаки препинания.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\22 task Знаки препинания\obj\Debug\22 task Знаки препинания.exe
+D:\c#\my projects\08 строки\22 task Знаки препинания\obj\Debug\22 task Знаки препинания.pdb

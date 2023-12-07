@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\17 task Сумма, минимум и максимум\bin\Debug\17 task Сумма, минимум и максимум.exe.config
+D:\c#\my projects\07 двовимірні масиви\17 task Сумма, минимум и максимум\bin\Debug\17 task Сумма, минимум и максимум.exe
+D:\c#\my projects\07 двовимірні масиви\17 task Сумма, минимум и максимум\bin\Debug\17 task Сумма, минимум и максимум.pdb
+D:\c#\my projects\07 двовимірні масиви\17 task Сумма, минимум и максимум\obj\Debug\17 task Сумма, минимум и максимум.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\17 task Сумма, минимум и максимум\obj\Debug\17 task Сумма, минимум и максимум.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\17 task Сумма, минимум и максимум\obj\Debug\17 task Сумма, минимум и максимум.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\17 task Сумма, минимум и максимум\obj\Debug\17 task Сумма, минимум и максимум.exe
+D:\c#\my projects\07 двовимірні масиви\17 task Сумма, минимум и максимум\obj\Debug\17 task Сумма, минимум и максимум.pdb

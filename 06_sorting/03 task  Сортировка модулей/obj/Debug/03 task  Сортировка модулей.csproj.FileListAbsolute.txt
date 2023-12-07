@@ -1,0 +1,8 @@
+D:\c#\my projects\06 сортування\03 task  Сортировка модулей\bin\Debug\03 task  Сортировка модулей.exe.config
+D:\c#\my projects\06 сортування\03 task  Сортировка модулей\bin\Debug\03 task  Сортировка модулей.exe
+D:\c#\my projects\06 сортування\03 task  Сортировка модулей\bin\Debug\03 task  Сортировка модулей.pdb
+D:\c#\my projects\06 сортування\03 task  Сортировка модулей\obj\Debug\03 task  Сортировка модулей.csproj.AssemblyReference.cache
+D:\c#\my projects\06 сортування\03 task  Сортировка модулей\obj\Debug\03 task  Сортировка модулей.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\06 сортування\03 task  Сортировка модулей\obj\Debug\03 task  Сортировка модулей.csproj.CoreCompileInputs.cache
+D:\c#\my projects\06 сортування\03 task  Сортировка модулей\obj\Debug\03 task  Сортировка модулей.exe
+D:\c#\my projects\06 сортування\03 task  Сортировка модулей\obj\Debug\03 task  Сортировка модулей.pdb

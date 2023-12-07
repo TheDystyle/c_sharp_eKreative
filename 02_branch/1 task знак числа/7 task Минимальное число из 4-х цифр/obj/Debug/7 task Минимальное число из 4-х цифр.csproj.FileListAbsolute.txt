@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\7 task Минимальное число из 4-х цифр\bin\Debug\7 task Минимальное число из 4-х цифр.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\7 task Минимальное число из 4-х цифр\bin\Debug\7 task Минимальное число из 4-х цифр.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\7 task Минимальное число из 4-х цифр\bin\Debug\7 task Минимальное число из 4-х цифр.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\7 task Минимальное число из 4-х цифр\obj\Debug\7 task Минимальное число из 4-х цифр.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\7 task Минимальное число из 4-х цифр\obj\Debug\7 task Минимальное число из 4-х цифр.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\7 task Минимальное число из 4-х цифр\obj\Debug\7 task Минимальное число из 4-х цифр.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\7 task Минимальное число из 4-х цифр\obj\Debug\7 task Минимальное число из 4-х цифр.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\7 task Минимальное число из 4-х цифр\obj\Debug\7 task Минимальное число из 4-х цифр.pdb

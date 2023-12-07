@@ -1,0 +1,8 @@
+D:\c#\my projects\project HELLO WORLD\project HELLO WORLD\obj\Debug\project HELLO WORLD.csproj.AssemblyReference.cache
+D:\c#\my projects\project HELLO WORLD\project HELLO WORLD\obj\Debug\project HELLO WORLD.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\project HELLO WORLD\project HELLO WORLD\obj\Debug\project HELLO WORLD.csproj.CoreCompileInputs.cache
+D:\c#\my projects\project HELLO WORLD\project HELLO WORLD\bin\Debug\project HELLO WORLD.exe.config
+D:\c#\my projects\project HELLO WORLD\project HELLO WORLD\bin\Debug\project HELLO WORLD.exe
+D:\c#\my projects\project HELLO WORLD\project HELLO WORLD\bin\Debug\project HELLO WORLD.pdb
+D:\c#\my projects\project HELLO WORLD\project HELLO WORLD\obj\Debug\project HELLO WORLD.exe
+D:\c#\my projects\project HELLO WORLD\project HELLO WORLD\obj\Debug\project HELLO WORLD.pdb

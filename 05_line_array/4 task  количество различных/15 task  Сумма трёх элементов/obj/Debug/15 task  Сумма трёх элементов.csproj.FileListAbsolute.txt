@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\15 task  Сумма трёх элементов\bin\Debug\15 task  Сумма трёх элементов.exe.config
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\15 task  Сумма трёх элементов\bin\Debug\15 task  Сумма трёх элементов.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\15 task  Сумма трёх элементов\bin\Debug\15 task  Сумма трёх элементов.pdb
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\15 task  Сумма трёх элементов\obj\Debug\15 task  Сумма трёх элементов.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\15 task  Сумма трёх элементов\obj\Debug\15 task  Сумма трёх элементов.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\15 task  Сумма трёх элементов\obj\Debug\15 task  Сумма трёх элементов.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\15 task  Сумма трёх элементов\obj\Debug\15 task  Сумма трёх элементов.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\15 task  Сумма трёх элементов\obj\Debug\15 task  Сумма трёх элементов.pdb

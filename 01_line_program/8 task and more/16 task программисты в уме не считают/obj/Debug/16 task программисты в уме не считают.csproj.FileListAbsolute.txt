@@ -1,0 +1,8 @@
+D:\c#\my projects\8 task and more\16 task программисты в уме не считают\bin\Debug\16 task программисты в уме не считают.exe.config
+D:\c#\my projects\8 task and more\16 task программисты в уме не считают\bin\Debug\16 task программисты в уме не считают.exe
+D:\c#\my projects\8 task and more\16 task программисты в уме не считают\bin\Debug\16 task программисты в уме не считают.pdb
+D:\c#\my projects\8 task and more\16 task программисты в уме не считают\obj\Debug\16 task программисты в уме не считают.csproj.AssemblyReference.cache
+D:\c#\my projects\8 task and more\16 task программисты в уме не считают\obj\Debug\16 task программисты в уме не считают.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\8 task and more\16 task программисты в уме не считают\obj\Debug\16 task программисты в уме не считают.csproj.CoreCompileInputs.cache
+D:\c#\my projects\8 task and more\16 task программисты в уме не считают\obj\Debug\16 task программисты в уме не считают.exe
+D:\c#\my projects\8 task and more\16 task программисты в уме не считают\obj\Debug\16 task программисты в уме не считают.pdb

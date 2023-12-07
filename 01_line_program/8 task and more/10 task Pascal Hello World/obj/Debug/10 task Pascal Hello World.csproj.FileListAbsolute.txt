@@ -1,0 +1,8 @@
+D:\c#\my projects\8 task and more\10 task Pascal Hello World\bin\Debug\10 task Pascal Hello World.exe.config
+D:\c#\my projects\8 task and more\10 task Pascal Hello World\bin\Debug\10 task Pascal Hello World.exe
+D:\c#\my projects\8 task and more\10 task Pascal Hello World\bin\Debug\10 task Pascal Hello World.pdb
+D:\c#\my projects\8 task and more\10 task Pascal Hello World\obj\Debug\10 task Pascal Hello World.csproj.AssemblyReference.cache
+D:\c#\my projects\8 task and more\10 task Pascal Hello World\obj\Debug\10 task Pascal Hello World.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\8 task and more\10 task Pascal Hello World\obj\Debug\10 task Pascal Hello World.csproj.CoreCompileInputs.cache
+D:\c#\my projects\8 task and more\10 task Pascal Hello World\obj\Debug\10 task Pascal Hello World.exe
+D:\c#\my projects\8 task and more\10 task Pascal Hello World\obj\Debug\10 task Pascal Hello World.pdb

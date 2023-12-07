@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\1 task знак числа\obj\Debug\1 task знак числа.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\1 task знак числа\obj\Debug\1 task знак числа.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\1 task знак числа\obj\Debug\1 task знак числа.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\1 task знак числа\bin\Debug\1 task знак числа.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\1 task знак числа\bin\Debug\1 task знак числа.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\1 task знак числа\bin\Debug\1 task знак числа.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\1 task знак числа\obj\Debug\1 task знак числа.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\1 task знак числа\obj\Debug\1 task знак числа.pdb

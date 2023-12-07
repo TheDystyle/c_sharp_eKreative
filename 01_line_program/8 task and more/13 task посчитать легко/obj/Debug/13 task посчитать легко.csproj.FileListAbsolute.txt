@@ -1,0 +1,8 @@
+D:\c#\my projects\8 task and more\13 task посчитать легко\bin\Debug\13 task посчитать легко.exe.config
+D:\c#\my projects\8 task and more\13 task посчитать легко\bin\Debug\13 task посчитать легко.exe
+D:\c#\my projects\8 task and more\13 task посчитать легко\bin\Debug\13 task посчитать легко.pdb
+D:\c#\my projects\8 task and more\13 task посчитать легко\obj\Debug\13 task посчитать легко.csproj.AssemblyReference.cache
+D:\c#\my projects\8 task and more\13 task посчитать легко\obj\Debug\13 task посчитать легко.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\8 task and more\13 task посчитать легко\obj\Debug\13 task посчитать легко.csproj.CoreCompileInputs.cache
+D:\c#\my projects\8 task and more\13 task посчитать легко\obj\Debug\13 task посчитать легко.exe
+D:\c#\my projects\8 task and more\13 task посчитать легко\obj\Debug\13 task посчитать легко.pdb

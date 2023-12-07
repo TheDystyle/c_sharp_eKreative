@@ -1,0 +1,8 @@
+D:\c#\my projects\06 сортування\11 task удаление элемента\bin\Debug\11 task удаление элемента.exe.config
+D:\c#\my projects\06 сортування\11 task удаление элемента\bin\Debug\11 task удаление элемента.exe
+D:\c#\my projects\06 сортування\11 task удаление элемента\bin\Debug\11 task удаление элемента.pdb
+D:\c#\my projects\06 сортування\11 task удаление элемента\obj\Debug\11 task удаление элемента.csproj.AssemblyReference.cache
+D:\c#\my projects\06 сортування\11 task удаление элемента\obj\Debug\11 task удаление элемента.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\06 сортування\11 task удаление элемента\obj\Debug\11 task удаление элемента.csproj.CoreCompileInputs.cache
+D:\c#\my projects\06 сортування\11 task удаление элемента\obj\Debug\11 task удаление элемента.exe
+D:\c#\my projects\06 сортування\11 task удаление элемента\obj\Debug\11 task удаление элемента.pdb

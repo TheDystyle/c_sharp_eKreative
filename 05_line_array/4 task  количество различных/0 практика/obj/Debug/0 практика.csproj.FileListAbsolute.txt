@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\0 практика\bin\Debug\0 практика.exe.config
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\0 практика\bin\Debug\0 практика.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\0 практика\bin\Debug\0 практика.pdb
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\0 практика\obj\Debug\0 практика.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\0 практика\obj\Debug\0 практика.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\0 практика\obj\Debug\0 практика.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\0 практика\obj\Debug\0 практика.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\0 практика\obj\Debug\0 практика.pdb

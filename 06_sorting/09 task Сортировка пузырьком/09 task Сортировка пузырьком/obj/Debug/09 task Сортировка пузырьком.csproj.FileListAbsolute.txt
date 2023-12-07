@@ -1,0 +1,8 @@
+D:\c#\my projects\06 сортування\09 task Сортировка пузырьком\09 task Сортировка пузырьком\bin\Debug\09 task Сортировка пузырьком.exe.config
+D:\c#\my projects\06 сортування\09 task Сортировка пузырьком\09 task Сортировка пузырьком\bin\Debug\09 task Сортировка пузырьком.exe
+D:\c#\my projects\06 сортування\09 task Сортировка пузырьком\09 task Сортировка пузырьком\bin\Debug\09 task Сортировка пузырьком.pdb
+D:\c#\my projects\06 сортування\09 task Сортировка пузырьком\09 task Сортировка пузырьком\obj\Debug\09 task Сортировка пузырьком.csproj.AssemblyReference.cache
+D:\c#\my projects\06 сортування\09 task Сортировка пузырьком\09 task Сортировка пузырьком\obj\Debug\09 task Сортировка пузырьком.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\06 сортування\09 task Сортировка пузырьком\09 task Сортировка пузырьком\obj\Debug\09 task Сортировка пузырьком.csproj.CoreCompileInputs.cache
+D:\c#\my projects\06 сортування\09 task Сортировка пузырьком\09 task Сортировка пузырьком\obj\Debug\09 task Сортировка пузырьком.exe
+D:\c#\my projects\06 сортування\09 task Сортировка пузырьком\09 task Сортировка пузырьком\obj\Debug\09 task Сортировка пузырьком.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\14 task  Генерация с переворотом\bin\Debug\14 task  Генерация с переворотом.exe.config
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\14 task  Генерация с переворотом\bin\Debug\14 task  Генерация с переворотом.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\14 task  Генерация с переворотом\bin\Debug\14 task  Генерация с переворотом.pdb
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\14 task  Генерация с переворотом\obj\Debug\14 task  Генерация с переворотом.csproj.AssemblyReference.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\14 task  Генерация с переворотом\obj\Debug\14 task  Генерация с переворотом.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\14 task  Генерация с переворотом\obj\Debug\14 task  Генерация с переворотом.csproj.CoreCompileInputs.cache
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\14 task  Генерация с переворотом\obj\Debug\14 task  Генерация с переворотом.exe
+D:\c#\my projects\5 лінійні масиви\4 task  количество различных\14 task  Генерация с переворотом\obj\Debug\14 task  Генерация с переворотом.pdb

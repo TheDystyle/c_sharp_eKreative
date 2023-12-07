@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\17 task Зашифровать\bin\Debug\17 task Зашифровать.exe.config
+D:\c#\my projects\08 строки\17 task Зашифровать\bin\Debug\17 task Зашифровать.exe
+D:\c#\my projects\08 строки\17 task Зашифровать\bin\Debug\17 task Зашифровать.pdb
+D:\c#\my projects\08 строки\17 task Зашифровать\obj\Debug\17 task Зашифровать.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\17 task Зашифровать\obj\Debug\17 task Зашифровать.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\17 task Зашифровать\obj\Debug\17 task Зашифровать.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\17 task Зашифровать\obj\Debug\17 task Зашифровать.exe
+D:\c#\my projects\08 строки\17 task Зашифровать\obj\Debug\17 task Зашифровать.pdb

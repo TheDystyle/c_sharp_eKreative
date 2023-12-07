@@ -1,0 +1,8 @@
+D:\c#\my projects\06 сортування\12 task  второй по величине элемент\obj\Debug\12 task  второй по величине элемент.csproj.AssemblyReference.cache
+D:\c#\my projects\06 сортування\12 task  второй по величине элемент\obj\Debug\12 task  второй по величине элемент.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\06 сортування\12 task  второй по величине элемент\obj\Debug\12 task  второй по величине элемент.csproj.CoreCompileInputs.cache
+D:\c#\my projects\06 сортування\12 task  второй по величине элемент\bin\Debug\12 task  второй по величине элемент.exe.config
+D:\c#\my projects\06 сортування\12 task  второй по величине элемент\bin\Debug\12 task  второй по величине элемент.exe
+D:\c#\my projects\06 сортування\12 task  второй по величине элемент\bin\Debug\12 task  второй по величине элемент.pdb
+D:\c#\my projects\06 сортування\12 task  второй по величине элемент\obj\Debug\12 task  второй по величине элемент.exe
+D:\c#\my projects\06 сортування\12 task  второй по величине элемент\obj\Debug\12 task  второй по величине элемент.pdb

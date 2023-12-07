@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\06 task Длина подстроки\bin\Debug\06 task Длина подстроки.exe.config
+D:\c#\my projects\08 строки\06 task Длина подстроки\bin\Debug\06 task Длина подстроки.exe
+D:\c#\my projects\08 строки\06 task Длина подстроки\bin\Debug\06 task Длина подстроки.pdb
+D:\c#\my projects\08 строки\06 task Длина подстроки\obj\Debug\06 task Длина подстроки.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\06 task Длина подстроки\obj\Debug\06 task Длина подстроки.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\06 task Длина подстроки\obj\Debug\06 task Длина подстроки.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\06 task Длина подстроки\obj\Debug\06 task Длина подстроки.exe
+D:\c#\my projects\08 строки\06 task Длина подстроки\obj\Debug\06 task Длина подстроки.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\5 task Хотя бы одно из двух условий\bin\Debug\5 task Хотя бы одно из двух условий.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\5 task Хотя бы одно из двух условий\bin\Debug\5 task Хотя бы одно из двух условий.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\5 task Хотя бы одно из двух условий\bin\Debug\5 task Хотя бы одно из двух условий.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\5 task Хотя бы одно из двух условий\obj\Debug\5 task Хотя бы одно из двух условий.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\5 task Хотя бы одно из двух условий\obj\Debug\5 task Хотя бы одно из двух условий.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\5 task Хотя бы одно из двух условий\obj\Debug\5 task Хотя бы одно из двух условий.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\5 task Хотя бы одно из двух условий\obj\Debug\5 task Хотя бы одно из двух условий.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\5 task Хотя бы одно из двух условий\obj\Debug\5 task Хотя бы одно из двух условий.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\dz - банкомат- купюри по 3 та 5\bin\Debug\dz - банкомат- купюри по 3 та 5.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\dz - банкомат- купюри по 3 та 5\bin\Debug\dz - банкомат- купюри по 3 та 5.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\dz - банкомат- купюри по 3 та 5\bin\Debug\dz - банкомат- купюри по 3 та 5.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\dz - банкомат- купюри по 3 та 5\obj\Debug\dz - банкомат- купюри по 3 та 5.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\dz - банкомат- купюри по 3 та 5\obj\Debug\dz - банкомат- купюри по 3 та 5.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\dz - банкомат- купюри по 3 та 5\obj\Debug\dz - банкомат- купюри по 3 та 5.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\dz - банкомат- купюри по 3 та 5\obj\Debug\dz - банкомат- купюри по 3 та 5.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\dz - банкомат- купюри по 3 та 5\obj\Debug\dz - банкомат- купюри по 3 та 5.pdb

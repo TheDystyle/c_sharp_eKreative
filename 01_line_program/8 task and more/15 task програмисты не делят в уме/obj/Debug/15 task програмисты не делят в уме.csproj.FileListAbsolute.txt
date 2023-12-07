@@ -1,0 +1,8 @@
+D:\c#\my projects\8 task and more\15 task програмисты не делят в уме\bin\Debug\15 task програмисты не делят в уме.exe.config
+D:\c#\my projects\8 task and more\15 task програмисты не делят в уме\bin\Debug\15 task програмисты не делят в уме.exe
+D:\c#\my projects\8 task and more\15 task програмисты не делят в уме\bin\Debug\15 task програмисты не делят в уме.pdb
+D:\c#\my projects\8 task and more\15 task програмисты не делят в уме\obj\Debug\15 task програмисты не делят в уме.csproj.AssemblyReference.cache
+D:\c#\my projects\8 task and more\15 task програмисты не делят в уме\obj\Debug\15 task програмисты не делят в уме.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\8 task and more\15 task програмисты не делят в уме\obj\Debug\15 task програмисты не делят в уме.csproj.CoreCompileInputs.cache
+D:\c#\my projects\8 task and more\15 task програмисты не делят в уме\obj\Debug\15 task програмисты не делят в уме.exe
+D:\c#\my projects\8 task and more\15 task програмисты не делят в уме\obj\Debug\15 task програмисты не делят в уме.pdb

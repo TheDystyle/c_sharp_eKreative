@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\3 less\4 less\bin\Debug\4 less.exe.config
+D:\c#\my projects\2 розгалудження\3 less\4 less\bin\Debug\4 less.exe
+D:\c#\my projects\2 розгалудження\3 less\4 less\bin\Debug\4 less.pdb
+D:\c#\my projects\2 розгалудження\3 less\4 less\obj\Debug\4 less.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\3 less\4 less\obj\Debug\4 less.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\3 less\4 less\obj\Debug\4 less.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\3 less\4 less\obj\Debug\4 less.exe
+D:\c#\my projects\2 розгалудження\3 less\4 less\obj\Debug\4 less.pdb

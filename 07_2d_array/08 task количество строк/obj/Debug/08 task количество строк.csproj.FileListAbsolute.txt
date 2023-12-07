@@ -1,0 +1,8 @@
+D:\c#\my projects\07 двовимірні масиви\08 task количество строк\bin\Debug\08 task количество строк.exe.config
+D:\c#\my projects\07 двовимірні масиви\08 task количество строк\bin\Debug\08 task количество строк.exe
+D:\c#\my projects\07 двовимірні масиви\08 task количество строк\bin\Debug\08 task количество строк.pdb
+D:\c#\my projects\07 двовимірні масиви\08 task количество строк\obj\Debug\08 task количество строк.csproj.AssemblyReference.cache
+D:\c#\my projects\07 двовимірні масиви\08 task количество строк\obj\Debug\08 task количество строк.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\07 двовимірні масиви\08 task количество строк\obj\Debug\08 task количество строк.csproj.CoreCompileInputs.cache
+D:\c#\my projects\07 двовимірні масиви\08 task количество строк\obj\Debug\08 task количество строк.exe
+D:\c#\my projects\07 двовимірні масиви\08 task количество строк\obj\Debug\08 task количество строк.pdb

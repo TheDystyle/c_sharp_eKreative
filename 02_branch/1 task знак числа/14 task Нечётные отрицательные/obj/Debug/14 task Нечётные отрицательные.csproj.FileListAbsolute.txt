@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\14 task Нечётные отрицательные\bin\Debug\14 task Нечётные отрицательные.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\14 task Нечётные отрицательные\bin\Debug\14 task Нечётные отрицательные.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\14 task Нечётные отрицательные\bin\Debug\14 task Нечётные отрицательные.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\14 task Нечётные отрицательные\obj\Debug\14 task Нечётные отрицательные.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\14 task Нечётные отрицательные\obj\Debug\14 task Нечётные отрицательные.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\14 task Нечётные отрицательные\obj\Debug\14 task Нечётные отрицательные.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\14 task Нечётные отрицательные\obj\Debug\14 task Нечётные отрицательные.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\14 task Нечётные отрицательные\obj\Debug\14 task Нечётные отрицательные.pdb

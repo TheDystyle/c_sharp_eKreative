@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\18 task Очень важные числа\bin\Debug\18 task Очень важные числа.exe.config
+D:\c#\my projects\3 цикли\18 task Очень важные числа\bin\Debug\18 task Очень важные числа.exe
+D:\c#\my projects\3 цикли\18 task Очень важные числа\bin\Debug\18 task Очень важные числа.pdb
+D:\c#\my projects\3 цикли\18 task Очень важные числа\obj\Debug\18 task Очень важные числа.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\18 task Очень важные числа\obj\Debug\18 task Очень важные числа.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\18 task Очень важные числа\obj\Debug\18 task Очень важные числа.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\18 task Очень важные числа\obj\Debug\18 task Очень важные числа.exe
+D:\c#\my projects\3 цикли\18 task Очень важные числа\obj\Debug\18 task Очень важные числа.pdb

@@ -1,0 +1,8 @@
+D:\c#\my projects\2 розгалудження\1 task знак числа\10 task Максимум и минимум из трёх\bin\Debug\10 task Максимум и минимум из трёх.exe.config
+D:\c#\my projects\2 розгалудження\1 task знак числа\10 task Максимум и минимум из трёх\bin\Debug\10 task Максимум и минимум из трёх.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\10 task Максимум и минимум из трёх\bin\Debug\10 task Максимум и минимум из трёх.pdb
+D:\c#\my projects\2 розгалудження\1 task знак числа\10 task Максимум и минимум из трёх\obj\Debug\10 task Максимум и минимум из трёх.csproj.AssemblyReference.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\10 task Максимум и минимум из трёх\obj\Debug\10 task Максимум и минимум из трёх.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\10 task Максимум и минимум из трёх\obj\Debug\10 task Максимум и минимум из трёх.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 розгалудження\1 task знак числа\10 task Максимум и минимум из трёх\obj\Debug\10 task Максимум и минимум из трёх.exe
+D:\c#\my projects\2 розгалудження\1 task знак числа\10 task Максимум и минимум из трёх\obj\Debug\10 task Максимум и минимум из трёх.pdb

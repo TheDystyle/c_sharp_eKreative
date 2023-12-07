@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\7 task  Наименьший делитель\bin\Debug\7 task  Наименьший делитель.exe.config
+D:\c#\my projects\3 цикли\7 task  Наименьший делитель\bin\Debug\7 task  Наименьший делитель.exe
+D:\c#\my projects\3 цикли\7 task  Наименьший делитель\bin\Debug\7 task  Наименьший делитель.pdb
+D:\c#\my projects\3 цикли\7 task  Наименьший делитель\obj\Debug\7 task  Наименьший делитель.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\7 task  Наименьший делитель\obj\Debug\7 task  Наименьший делитель.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\7 task  Наименьший делитель\obj\Debug\7 task  Наименьший делитель.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\7 task  Наименьший делитель\obj\Debug\7 task  Наименьший делитель.exe
+D:\c#\my projects\3 цикли\7 task  Наименьший делитель\obj\Debug\7 task  Наименьший делитель.pdb

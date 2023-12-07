@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\26 task Спортсмен\bin\Debug\26 task Спортсмен.exe.config
+D:\c#\my projects\3 цикли\26 task Спортсмен\bin\Debug\26 task Спортсмен.exe
+D:\c#\my projects\3 цикли\26 task Спортсмен\bin\Debug\26 task Спортсмен.pdb
+D:\c#\my projects\3 цикли\26 task Спортсмен\obj\Debug\26 task Спортсмен.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\26 task Спортсмен\obj\Debug\26 task Спортсмен.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\26 task Спортсмен\obj\Debug\26 task Спортсмен.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\26 task Спортсмен\obj\Debug\26 task Спортсмен.exe
+D:\c#\my projects\3 цикли\26 task Спортсмен\obj\Debug\26 task Спортсмен.pdb

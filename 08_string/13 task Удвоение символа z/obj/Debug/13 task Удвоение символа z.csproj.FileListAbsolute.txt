@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\13 task Удвоение символа z\bin\Debug\13 task Удвоение символа z.exe.config
+D:\c#\my projects\08 строки\13 task Удвоение символа z\bin\Debug\13 task Удвоение символа z.exe
+D:\c#\my projects\08 строки\13 task Удвоение символа z\bin\Debug\13 task Удвоение символа z.pdb
+D:\c#\my projects\08 строки\13 task Удвоение символа z\obj\Debug\13 task Удвоение символа z.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\13 task Удвоение символа z\obj\Debug\13 task Удвоение символа z.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\13 task Удвоение символа z\obj\Debug\13 task Удвоение символа z.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\13 task Удвоение символа z\obj\Debug\13 task Удвоение символа z.exe
+D:\c#\my projects\08 строки\13 task Удвоение символа z\obj\Debug\13 task Удвоение символа z.pdb

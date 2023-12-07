@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\2 task Сумма цифр двоичного представления\bin\Debug\2 task Сумма цифр двоичного представления.exe.config
+D:\c#\my projects\3 цикли\2 task Сумма цифр двоичного представления\bin\Debug\2 task Сумма цифр двоичного представления.exe
+D:\c#\my projects\3 цикли\2 task Сумма цифр двоичного представления\bin\Debug\2 task Сумма цифр двоичного представления.pdb
+D:\c#\my projects\3 цикли\2 task Сумма цифр двоичного представления\obj\Debug\2 task Сумма цифр двоичного представления.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\2 task Сумма цифр двоичного представления\obj\Debug\2 task Сумма цифр двоичного представления.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\2 task Сумма цифр двоичного представления\obj\Debug\2 task Сумма цифр двоичного представления.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\2 task Сумма цифр двоичного представления\obj\Debug\2 task Сумма цифр двоичного представления.exe
+D:\c#\my projects\3 цикли\2 task Сумма цифр двоичного представления\obj\Debug\2 task Сумма цифр двоичного представления.pdb

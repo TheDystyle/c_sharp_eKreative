@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\8 task Длина последовательности\bin\Debug\8 task Длина последовательности.exe.config
+D:\c#\my projects\3 цикли\8 task Длина последовательности\bin\Debug\8 task Длина последовательности.exe
+D:\c#\my projects\3 цикли\8 task Длина последовательности\bin\Debug\8 task Длина последовательности.pdb
+D:\c#\my projects\3 цикли\8 task Длина последовательности\obj\Debug\8 task Длина последовательности.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\8 task Длина последовательности\obj\Debug\8 task Длина последовательности.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\8 task Длина последовательности\obj\Debug\8 task Длина последовательности.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\8 task Длина последовательности\obj\Debug\8 task Длина последовательности.exe
+D:\c#\my projects\3 цикли\8 task Длина последовательности\obj\Debug\8 task Длина последовательности.pdb

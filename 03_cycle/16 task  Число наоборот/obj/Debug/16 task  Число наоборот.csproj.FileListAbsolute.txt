@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\16 task  Число наоборот\bin\Debug\16 task  Число наоборот.exe.config
+D:\c#\my projects\3 цикли\16 task  Число наоборот\bin\Debug\16 task  Число наоборот.exe
+D:\c#\my projects\3 цикли\16 task  Число наоборот\bin\Debug\16 task  Число наоборот.pdb
+D:\c#\my projects\3 цикли\16 task  Число наоборот\obj\Debug\16 task  Число наоборот.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\16 task  Число наоборот\obj\Debug\16 task  Число наоборот.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\16 task  Число наоборот\obj\Debug\16 task  Число наоборот.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\16 task  Число наоборот\obj\Debug\16 task  Число наоборот.exe
+D:\c#\my projects\3 цикли\16 task  Число наоборот\obj\Debug\16 task  Число наоборот.pdb

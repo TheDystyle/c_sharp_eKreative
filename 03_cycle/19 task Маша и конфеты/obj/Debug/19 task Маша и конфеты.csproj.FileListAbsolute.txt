@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\19 task Маша и конфеты\bin\Debug\19 task Маша и конфеты.exe.config
+D:\c#\my projects\3 цикли\19 task Маша и конфеты\bin\Debug\19 task Маша и конфеты.exe
+D:\c#\my projects\3 цикли\19 task Маша и конфеты\bin\Debug\19 task Маша и конфеты.pdb
+D:\c#\my projects\3 цикли\19 task Маша и конфеты\obj\Debug\19 task Маша и конфеты.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\19 task Маша и конфеты\obj\Debug\19 task Маша и конфеты.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\19 task Маша и конфеты\obj\Debug\19 task Маша и конфеты.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\19 task Маша и конфеты\obj\Debug\19 task Маша и конфеты.exe
+D:\c#\my projects\3 цикли\19 task Маша и конфеты\obj\Debug\19 task Маша и конфеты.pdb

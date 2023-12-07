@@ -1,0 +1,8 @@
+D:\c#\my projects\2 задача using рамка из звездочек\2 задача using рамка из звездочек\obj\Debug\2 задача using рамка из звездочек.csproj.AssemblyReference.cache
+D:\c#\my projects\2 задача using рамка из звездочек\2 задача using рамка из звездочек\obj\Debug\2 задача using рамка из звездочек.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\2 задача using рамка из звездочек\2 задача using рамка из звездочек\obj\Debug\2 задача using рамка из звездочек.csproj.CoreCompileInputs.cache
+D:\c#\my projects\2 задача using рамка из звездочек\2 задача using рамка из звездочек\bin\Debug\2 задача using рамка из звездочек.exe.config
+D:\c#\my projects\2 задача using рамка из звездочек\2 задача using рамка из звездочек\bin\Debug\2 задача using рамка из звездочек.exe
+D:\c#\my projects\2 задача using рамка из звездочек\2 задача using рамка из звездочек\bin\Debug\2 задача using рамка из звездочек.pdb
+D:\c#\my projects\2 задача using рамка из звездочек\2 задача using рамка из звездочек\obj\Debug\2 задача using рамка из звездочек.exe
+D:\c#\my projects\2 задача using рамка из звездочек\2 задача using рамка из звездочек\obj\Debug\2 задача using рамка из звездочек.pdb

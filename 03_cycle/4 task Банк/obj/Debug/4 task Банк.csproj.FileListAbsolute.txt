@@ -1,0 +1,8 @@
+D:\c#\my projects\3 цикли\4 task Банк\bin\Debug\4 task Банк.exe.config
+D:\c#\my projects\3 цикли\4 task Банк\bin\Debug\4 task Банк.exe
+D:\c#\my projects\3 цикли\4 task Банк\bin\Debug\4 task Банк.pdb
+D:\c#\my projects\3 цикли\4 task Банк\obj\Debug\4 task Банк.csproj.AssemblyReference.cache
+D:\c#\my projects\3 цикли\4 task Банк\obj\Debug\4 task Банк.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\3 цикли\4 task Банк\obj\Debug\4 task Банк.csproj.CoreCompileInputs.cache
+D:\c#\my projects\3 цикли\4 task Банк\obj\Debug\4 task Банк.exe
+D:\c#\my projects\3 цикли\4 task Банк\obj\Debug\4 task Банк.pdb

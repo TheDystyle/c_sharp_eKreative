@@ -1,0 +1,8 @@
+D:\c#\my projects\06 сортування\07 task  Метод минимума\bin\Debug\07 task  Метод минимума.exe.config
+D:\c#\my projects\06 сортування\07 task  Метод минимума\bin\Debug\07 task  Метод минимума.exe
+D:\c#\my projects\06 сортування\07 task  Метод минимума\bin\Debug\07 task  Метод минимума.pdb
+D:\c#\my projects\06 сортування\07 task  Метод минимума\obj\Debug\07 task  Метод минимума.csproj.AssemblyReference.cache
+D:\c#\my projects\06 сортування\07 task  Метод минимума\obj\Debug\07 task  Метод минимума.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\06 сортування\07 task  Метод минимума\obj\Debug\07 task  Метод минимума.csproj.CoreCompileInputs.cache
+D:\c#\my projects\06 сортування\07 task  Метод минимума\obj\Debug\07 task  Метод минимума.exe
+D:\c#\my projects\06 сортування\07 task  Метод минимума\obj\Debug\07 task  Метод минимума.pdb

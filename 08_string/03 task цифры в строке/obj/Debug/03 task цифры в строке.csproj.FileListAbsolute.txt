@@ -1,0 +1,8 @@
+D:\c#\my projects\08 строки\03 task цифры в строке\bin\Debug\03 task цифры в строке.exe.config
+D:\c#\my projects\08 строки\03 task цифры в строке\bin\Debug\03 task цифры в строке.exe
+D:\c#\my projects\08 строки\03 task цифры в строке\bin\Debug\03 task цифры в строке.pdb
+D:\c#\my projects\08 строки\03 task цифры в строке\obj\Debug\03 task цифры в строке.csproj.AssemblyReference.cache
+D:\c#\my projects\08 строки\03 task цифры в строке\obj\Debug\03 task цифры в строке.csproj.SuggestedBindingRedirects.cache
+D:\c#\my projects\08 строки\03 task цифры в строке\obj\Debug\03 task цифры в строке.csproj.CoreCompileInputs.cache
+D:\c#\my projects\08 строки\03 task цифры в строке\obj\Debug\03 task цифры в строке.exe
+D:\c#\my projects\08 строки\03 task цифры в строке\obj\Debug\03 task цифры в строке.pdb
