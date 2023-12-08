@@ -1,0 +1,12 @@
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\bin\Debug\A_CSharpCourse.exe.config
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\bin\Debug\A_CSharpCourse.exe
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\bin\Debug\A_CSharpCourse.pdb
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\bin\Debug\courses.exe
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\bin\Debug\courses.pdb
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\bin\Debug\courses.exe.config
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\obj\Debug\A_CSharpCourse.csproj.AssemblyReference.cache
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\obj\Debug\A_CSharpCourse.csproj.SuggestedBindingRedirects.cache
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\obj\Debug\A_CSharpCourse.csproj.CoreCompileInputs.cache
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\obj\Debug\A_CSharpCourse.csproj.CopyComplete
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\obj\Debug\A_CSharpCourse.exe
+D:\! Обучение\c#\my projects\oop\oop_dz\A_CSharpCourse\obj\Debug\A_CSharpCourse.pdb

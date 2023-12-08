@@ -1,0 +1,10 @@
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz02_last\bin\Debug\dz02_last.exe.config
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz02_last\bin\Debug\dz02_last.exe
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz02_last\bin\Debug\dz02_last.pdb
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz02_last\bin\Debug\System.Data.SQLite.dll
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz02_last\bin\Debug\System.Data.SQLite.xml
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz02_last\obj\Debug\eKrativ_weather+db.csproj.AssemblyReference.cache
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz02_last\obj\Debug\eKrativ_weather+db.csproj.CoreCompileInputs.cache
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz02_last\obj\Debug\eKrativ_weather+db.csproj.CopyComplete
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz02_last\obj\Debug\dz02_last.exe
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz02_last\obj\Debug\dz02_last.pdb

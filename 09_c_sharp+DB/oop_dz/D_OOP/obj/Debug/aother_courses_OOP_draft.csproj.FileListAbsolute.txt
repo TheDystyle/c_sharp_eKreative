@@ -1,0 +1,7 @@
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\D_OOP\bin\Debug\D_OOP.exe.config
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\D_OOP\bin\Debug\D_OOP.exe
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\D_OOP\bin\Debug\D_OOP.pdb
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\D_OOP\obj\Debug\aother_courses_OOP_draft.csproj.AssemblyReference.cache
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\D_OOP\obj\Debug\aother_courses_OOP_draft.csproj.CoreCompileInputs.cache
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\D_OOP\obj\Debug\D_OOP.exe
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\D_OOP\obj\Debug\D_OOP.pdb

@@ -1,0 +1,14 @@
+D:\! Обучение\c#\my projects\oop\oop_dz\D_OOP\bin\Debug\D_OOP.exe.config
+D:\! Обучение\c#\my projects\oop\oop_dz\D_OOP\bin\Debug\D_OOP.exe
+D:\! Обучение\c#\my projects\oop\oop_dz\D_OOP\bin\Debug\D_OOP.pdb
+D:\! Обучение\c#\my projects\oop\oop_dz\D_OOP\obj\Debug\D_OOP.csproj.AssemblyReference.cache
+D:\! Обучение\c#\my projects\oop\oop_dz\D_OOP\obj\Debug\D_OOP.csproj.CoreCompileInputs.cache
+D:\! Обучение\c#\my projects\oop\oop_dz\D_OOP\obj\Debug\D_OOP.exe
+D:\! Обучение\c#\my projects\oop\oop_dz\D_OOP\obj\Debug\D_OOP.pdb
+D:\Education\c#\! program with bugs\oop\oop_dz\D_OOP\bin\Debug\D_OOP.exe.config
+D:\Education\c#\! program with bugs\oop\oop_dz\D_OOP\bin\Debug\D_OOP.exe
+D:\Education\c#\! program with bugs\oop\oop_dz\D_OOP\bin\Debug\D_OOP.pdb
+D:\Education\c#\! program with bugs\oop\oop_dz\D_OOP\obj\Debug\D_OOP.csproj.AssemblyReference.cache
+D:\Education\c#\! program with bugs\oop\oop_dz\D_OOP\obj\Debug\D_OOP.csproj.CoreCompileInputs.cache
+D:\Education\c#\! program with bugs\oop\oop_dz\D_OOP\obj\Debug\D_OOP.exe
+D:\Education\c#\! program with bugs\oop\oop_dz\D_OOP\obj\Debug\D_OOP.pdb

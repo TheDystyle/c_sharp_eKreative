@@ -1,0 +1,7 @@
+D:\! Обучение\c#\my projects\oop\oop_dz\C_ArraysCollection\bin\Debug\C_ArraysCollection.exe.config
+D:\! Обучение\c#\my projects\oop\oop_dz\C_ArraysCollection\bin\Debug\C_ArraysCollection.exe
+D:\! Обучение\c#\my projects\oop\oop_dz\C_ArraysCollection\bin\Debug\C_ArraysCollection.pdb
+D:\! Обучение\c#\my projects\oop\oop_dz\C_ArraysCollection\obj\Debug\C_ArraysCollection.csproj.AssemblyReference.cache
+D:\! Обучение\c#\my projects\oop\oop_dz\C_ArraysCollection\obj\Debug\C_ArraysCollection.csproj.CoreCompileInputs.cache
+D:\! Обучение\c#\my projects\oop\oop_dz\C_ArraysCollection\obj\Debug\C_ArraysCollection.exe
+D:\! Обучение\c#\my projects\oop\oop_dz\C_ArraysCollection\obj\Debug\C_ArraysCollection.pdb

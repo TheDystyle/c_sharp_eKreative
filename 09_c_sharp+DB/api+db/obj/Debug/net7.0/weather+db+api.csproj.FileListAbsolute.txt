@@ -1,0 +1,5 @@
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\weather+db+api.csproj.AssemblyReference.cache
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\weather+db+api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\weather+db+api.AssemblyInfoInputs.cache
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\weather+db+api.AssemblyInfo.cs
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\weather+db+api.csproj.CoreCompileInputs.cache

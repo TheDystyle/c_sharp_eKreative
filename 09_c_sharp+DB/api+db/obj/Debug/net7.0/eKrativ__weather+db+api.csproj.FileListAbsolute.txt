@@ -1,0 +1,5 @@
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\api+db\obj\Debug\net7.0\eKrativ__weather+db+api.csproj.AssemblyReference.cache
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\api+db\obj\Debug\net7.0\eKrativ__weather+db+api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\api+db\obj\Debug\net7.0\eKrativ__weather+db+api.AssemblyInfoInputs.cache
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\api+db\obj\Debug\net7.0\eKrativ__weather+db+api.AssemblyInfo.cs
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\api+db\obj\Debug\net7.0\eKrativ__weather+db+api.csproj.CoreCompileInputs.cache

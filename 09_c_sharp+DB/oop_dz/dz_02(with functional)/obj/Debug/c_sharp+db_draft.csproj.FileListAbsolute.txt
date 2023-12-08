@@ -1,0 +1,10 @@
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz_02(with functional)\bin\Debug\dz_02(with functional).exe.config
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz_02(with functional)\bin\Debug\dz_02(with functional).exe
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz_02(with functional)\bin\Debug\dz_02(with functional).pdb
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz_02(with functional)\bin\Debug\System.Data.SQLite.dll
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz_02(with functional)\bin\Debug\System.Data.SQLite.xml
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz_02(with functional)\obj\Debug\c_sharp+db_draft.csproj.AssemblyReference.cache
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz_02(with functional)\obj\Debug\c_sharp+db_draft.csproj.CoreCompileInputs.cache
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz_02(with functional)\obj\Debug\c_sharp+db_draft.csproj.CopyComplete
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz_02(with functional)\obj\Debug\dz_02(with functional).exe
+D:\Education\c#\c_charp_dz_project\09_c_sharp+DB\oop_dz\dz_02(with functional)\obj\Debug\dz_02(with functional).pdb

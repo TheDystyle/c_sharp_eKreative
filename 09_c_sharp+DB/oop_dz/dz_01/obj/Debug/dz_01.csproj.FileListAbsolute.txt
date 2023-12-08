@@ -1,0 +1,7 @@
+D:\! Обучение\c#\my projects\oop\oop_dz\dz_01\bin\Debug\dz_01.exe.config
+D:\! Обучение\c#\my projects\oop\oop_dz\dz_01\bin\Debug\dz_01.exe
+D:\! Обучение\c#\my projects\oop\oop_dz\dz_01\bin\Debug\dz_01.pdb
+D:\! Обучение\c#\my projects\oop\oop_dz\dz_01\obj\Debug\dz_01.csproj.AssemblyReference.cache
+D:\! Обучение\c#\my projects\oop\oop_dz\dz_01\obj\Debug\dz_01.csproj.CoreCompileInputs.cache
+D:\! Обучение\c#\my projects\oop\oop_dz\dz_01\obj\Debug\dz_01.exe
+D:\! Обучение\c#\my projects\oop\oop_dz\dz_01\obj\Debug\dz_01.pdb

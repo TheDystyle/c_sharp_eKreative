@@ -1,0 +1,42 @@
+D:\! Обучение\c#\my projects\oop\api+db\bin\Debug\net7.0\api+db.exe
+D:\! Обучение\c#\my projects\oop\api+db\bin\Debug\net7.0\api+db.deps.json
+D:\! Обучение\c#\my projects\oop\api+db\bin\Debug\net7.0\api+db.runtimeconfig.json
+D:\! Обучение\c#\my projects\oop\api+db\bin\Debug\net7.0\api+db.dll
+D:\! Обучение\c#\my projects\oop\api+db\bin\Debug\net7.0\api+db.pdb
+D:\! Обучение\c#\my projects\oop\api+db\obj\Debug\net7.0\api+db.GeneratedMSBuildEditorConfig.editorconfig
+D:\! Обучение\c#\my projects\oop\api+db\obj\Debug\net7.0\api+db.AssemblyInfoInputs.cache
+D:\! Обучение\c#\my projects\oop\api+db\obj\Debug\net7.0\api+db.AssemblyInfo.cs
+D:\! Обучение\c#\my projects\oop\api+db\obj\Debug\net7.0\api+db.csproj.CoreCompileInputs.cache
+D:\! Обучение\c#\my projects\oop\api+db\obj\Debug\net7.0\api+db.dll
+D:\! Обучение\c#\my projects\oop\api+db\obj\Debug\net7.0\refint\api+db.dll
+D:\! Обучение\c#\my projects\oop\api+db\obj\Debug\net7.0\api+db.pdb
+D:\! Обучение\c#\my projects\oop\api+db\obj\Debug\net7.0\api+db.genruntimeconfig.cache
+D:\! Обучение\c#\my projects\oop\api+db\obj\Debug\net7.0\ref\api+db.dll
+D:\! Обучение\c#\my projects\oop\api+db\bin\Debug\net7.0\System.Data.SQLite.dll
+D:\! Обучение\c#\my projects\oop\api+db\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\! Обучение\c#\my projects\oop\api+db\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\! Обучение\c#\my projects\oop\api+db\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\! Обучение\c#\my projects\oop\api+db\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\! Обучение\c#\my projects\oop\api+db\obj\Debug\net7.0\api+db.csproj.AssemblyReference.cache
+D:\! Обучение\c#\my projects\oop\api+db\obj\Debug\net7.0\api+db.csproj.CopyComplete
+D:\Education\c#\! program with bugs\oop\api+db\bin\Debug\net7.0\api+db.exe
+D:\Education\c#\! program with bugs\oop\api+db\bin\Debug\net7.0\api+db.deps.json
+D:\Education\c#\! program with bugs\oop\api+db\bin\Debug\net7.0\api+db.runtimeconfig.json
+D:\Education\c#\! program with bugs\oop\api+db\bin\Debug\net7.0\api+db.dll
+D:\Education\c#\! program with bugs\oop\api+db\bin\Debug\net7.0\api+db.pdb
+D:\Education\c#\! program with bugs\oop\api+db\bin\Debug\net7.0\System.Data.SQLite.dll
+D:\Education\c#\! program with bugs\oop\api+db\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Education\c#\! program with bugs\oop\api+db\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Education\c#\! program with bugs\oop\api+db\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Education\c#\! program with bugs\oop\api+db\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\api+db.csproj.AssemblyReference.cache
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\api+db.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\api+db.AssemblyInfoInputs.cache
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\api+db.AssemblyInfo.cs
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\api+db.csproj.CoreCompileInputs.cache
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\api+db.csproj.CopyComplete
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\api+db.dll
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\refint\api+db.dll
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\api+db.pdb
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\api+db.genruntimeconfig.cache
+D:\Education\c#\! program with bugs\oop\api+db\obj\Debug\net7.0\ref\api+db.dll

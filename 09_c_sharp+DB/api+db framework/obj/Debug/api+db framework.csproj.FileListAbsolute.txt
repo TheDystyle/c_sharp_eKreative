@@ -1,0 +1,2 @@
+D:\! Обучение\c#\my projects\oop\api+db framework\obj\Debug\api+db framework.csproj.AssemblyReference.cache
+D:\! Обучение\c#\my projects\oop\api+db framework\obj\Debug\api+db framework.csproj.CoreCompileInputs.cache
