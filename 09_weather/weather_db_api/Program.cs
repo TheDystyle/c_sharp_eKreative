@@ -17,13 +17,13 @@ namespace apiDb
         {
             Console.OutputEncoding = Encoding.UTF8;
             Console.InputEncoding = Encoding.UTF8;
-
-            SelectItemOfMenu();
             await getWeather();
+            SelectItemOfMenu();
+            
 
             async Task getWeather()
             {
-                Console.WriteLine("Database information has been updated!");
+                Console.WriteLine("Database information has been updated!\nPlease wait a few seconds");
                 var responseString = await client.GetStringAsync(url);
                 var jsonAnswer = new Dictionary<string, string>()
                 {
@@ -474,48 +474,6 @@ namespace apiDb
                 //{feels_like_kelvin} {weather_main} {weather_description} {wind_speed}
                 Console.WriteLine($"{dateItem}\t{temp_kelvin:f2}\t\t{feels_like_kelvin:f2}\t\t\t{weather_main}\t\t{weather_description}\t\t{wind_speed}");
             }
-        }
-
-        static void ReadDataTest(SQLiteConnection conn)
-        {
-            SQLiteDataReader sqlite_datareader;
-            SQLiteCommand sqlite_cmd;
-            sqlite_cmd = conn.CreateCommand();
-            sqlite_cmd.CommandText = "SELECT id, date_unix, city_name, sunrise_unix, sunset_unix, feels_like_kelvin FROM data";
-            sqlite_datareader = sqlite_cmd.ExecuteReader();
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"-=-=-=--=-=    Query #1 ");
-
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine($"id\tdate_unix\t\tcity_name\tsunrise_unix\t\tsunset_unix\tfeels_like_kelvin");
-
-            while (sqlite_datareader.Read())
-            {
-                int id = sqlite_datareader.GetInt32(0);
-
-                int date_unix = sqlite_datareader.GetInt32(1);
-                DateTimeOffset dateTimeOffset = DateTimeOffset.FromUnixTimeSeconds(date_unix);
-                DateTime dateItem = dateTimeOffset.DateTime;
-
-                string city_name = sqlite_datareader.GetString(2);
-
-                int sunrise_unix = sqlite_datareader.GetInt32(3);
-
-                DateTimeOffset dateTimeOffset2 = DateTimeOffset.FromUnixTimeSeconds(sunrise_unix);
-                DateTime localDateTime1 = dateTimeOffset2.DateTime;
-                //DateTimeOffset dateTimeOffset2 = DateTimeOffset.FromUnixTimeSeconds(sunrise_unix);
-                //DateTime sunrise = dateTimeOffset.DateTime;
-
-                int sunset_unix = sqlite_datareader.GetInt32(4);
-
-                string feels_like_kelvin = sqlite_datareader.GetString(5);
-
-                Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine($"{id}\t{dateItem}\t{city_name}\t{localDateTime1}\t{sunset_unix}\t{feels_like_kelvin}");
-
-            }
-            Console.WriteLine();
-
         }
     }
 }
