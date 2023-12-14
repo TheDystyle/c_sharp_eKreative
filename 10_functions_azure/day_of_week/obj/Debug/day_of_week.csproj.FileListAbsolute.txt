@@ -1,0 +1,7 @@
+D:\Education\c#\c_charp_dz_project\10_functions_azure\day_of_week\bin\Debug\day_of_week.exe.config
+D:\Education\c#\c_charp_dz_project\10_functions_azure\day_of_week\bin\Debug\day_of_week.exe
+D:\Education\c#\c_charp_dz_project\10_functions_azure\day_of_week\bin\Debug\day_of_week.pdb
+D:\Education\c#\c_charp_dz_project\10_functions_azure\day_of_week\obj\Debug\day_of_week.csproj.AssemblyReference.cache
+D:\Education\c#\c_charp_dz_project\10_functions_azure\day_of_week\obj\Debug\day_of_week.csproj.CoreCompileInputs.cache
+D:\Education\c#\c_charp_dz_project\10_functions_azure\day_of_week\obj\Debug\day_of_week.exe
+D:\Education\c#\c_charp_dz_project\10_functions_azure\day_of_week\obj\Debug\day_of_week.pdb
