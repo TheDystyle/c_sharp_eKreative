@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jk/IIDHX8zz94k0hIgoIabBYM4RdHdxeLR1L43v9zQtab5D4xp8iWmWqkgZbn4XoonEt0J+klseAv+EiJJNJaA==",
+  "success": true,
+  "projectFilePath": "D:\\Education\\c#\\c_charp_dz_project\\10_functions_azure\\serialize_json\\serialize_json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimey\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\dimey\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

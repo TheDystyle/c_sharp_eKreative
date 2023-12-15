@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "function_test_api", "functi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day_of_week", "..\day_of_week\day_of_week.csproj", "{D4F613A8-9DEB-45B6-9EF2-BF33101D0B9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serialize_json", "..\serialize_json\serialize_json.csproj", "{6242D308-88F7-4D3B-B8AE-FF3F5106ABA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D4F613A8-9DEB-45B6-9EF2-BF33101D0B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4F613A8-9DEB-45B6-9EF2-BF33101D0B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4F613A8-9DEB-45B6-9EF2-BF33101D0B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6242D308-88F7-4D3B-B8AE-FF3F5106ABA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6242D308-88F7-4D3B-B8AE-FF3F5106ABA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6242D308-88F7-4D3B-B8AE-FF3F5106ABA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6242D308-88F7-4D3B-B8AE-FF3F5106ABA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

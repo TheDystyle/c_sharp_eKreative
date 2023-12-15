@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using System.Text;
+using System.Text.Json;
 
 namespace function_test_api
 {
@@ -43,6 +44,8 @@ namespace function_test_api
             dynamic data = JsonConvert.DeserializeObject(requestBody);
             name = name ?? data?.name;
 
+            Console.OutputEncoding = Encoding.UTF8;
+
             string responseMessage = string.IsNullOrEmpty(name)
                 ? $"Sorry, parameter is empty"
                 : $"Hello, {name}\n\n" +
@@ -69,3 +72,5 @@ namespace function_test_api
         }
     }
 }
+
+
