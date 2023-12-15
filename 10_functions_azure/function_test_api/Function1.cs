@@ -65,7 +65,7 @@ namespace function_test_api
                 ? $"Sorry, parameter is empty"
                 : $"Hello {name}\n" +
                 $"You data:\n" +
-                $"{myRequest} {JsonConvert.DeserializeObject(json)}";
+                $" {JsonConvert.DeserializeObject(json)}";
                 /*$"Hello, {name}\n\n" +
                 $"Random phrase:\n {arr[value]}\n\n" +
                 $"Today is {currentDateTime.DayOfWeek.ToString()}\n\n" +
